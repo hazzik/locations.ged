@@ -1,0 +1,76 @@
+- id: L315
+  name: Закавказская Социалистическая Федеративная Советская Республика
+  names:
+  - name: Закавказская Социалистическая Федеративная Советская Республика
+    period: FROM 12 MAR 1922 TO 05 DEC 1936
+  parents:
+  - name: СССР
+    id: L27
+    period: FROM 30 DEC 1922 TO 05 DEC 1936
+- id: L332
+  name: Свердловская область
+  names:
+  - name: Свердловская область
+    period: FROM 17 JAN 1934
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM 17 JAN 1934
+- id: L333
+  name: Обско-Иртышская область
+  names:
+  - name: Обско-Иртышская область
+    period: FROM 17 JAN 1934 TO 07 DEC 1934
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM 17 JAN 1934 TO 07 DEC 1934
+- id: L334
+  name: Омская область
+  names:
+  - name: Омская область
+    period: FROM 07 DEC 1934
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM 07 DEC 1934
+- id: L335
+  name: Тюменская область
+  names:
+  - name: Тюменская область
+    period: FROM 14 AUG 1944
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM 14 AUG 1944
+- id: L336
+  name: Пермская область
+  names:
+  - name: Пермская область
+    period: FROM 03 OCT 1938 TO 08 MAR 1940
+  - name: Молотовская область
+    period: FROM 08 MAR 1940 TO 02 OCT 1957
+  - name: Пермская область
+    period: FROM 02 OCT 1957 TO 01 DEC 2005
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM 03 OCT 1938 TO 01 DEC 2005
+- id: L338
+  name: Курганская область
+  names:
+  - name: Курганская область
+    period: FROM 06 FEB 1943
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM 06 FEB 1943
+- id: L11
+  name: Челябинская область
+  names:
+  - name: Челябинская область
+    period: FROM 17 JAN 1934
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM 17 JAN 1934

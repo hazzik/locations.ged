@@ -1157,15 +1157,6 @@
     id: L13
     period: FROM @#DJULIAN@ 17 SEP 1809 TO 01 SEP 1997
 
-- id: L11
-  name: Челябинская область
-  names:
-  - name: Челябинская область
-    period: FROM 17 JAN 1934
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM 26 DEC 1991
 - id: L133
   name: Черниговская губерния
   names:

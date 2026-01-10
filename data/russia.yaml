@@ -1,0 +1,9 @@
+- id: L337
+  name: Пермский край
+  names:
+  - name: Пермский край
+    period: FROM 01 DEC 2005
+  parents:
+  - name: Российская Федерация
+    id: L3
+    period: FROM 01 DEC 2005
