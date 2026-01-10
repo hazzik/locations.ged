@@ -1,6 +1,7 @@
 import datetime
 import glob
 import os
+import re
 import secrets
 import sys
 import uuid
@@ -124,6 +125,24 @@ def create_chan_node():
         ]
     }
 
+def compute_abbreviation(name):
+    # Remove years in parentheses, e.g. " (1708–1764)" or " (1922)"
+    # Handles various dash types: hyphen, en-dash, em-dash
+    name_clean = re.sub(r'\s*\(\d+(?:[\-–—]\d+)?\)', '', name)
+    
+    replacements = {
+        'уезд': 'у.',
+        'область': 'обл.',
+        'губерния': 'губ.'
+    }
+    abbr = name_clean
+    for key, value in replacements.items():
+         abbr = abbr.replace(key, value)
+    
+    if abbr != name:
+        return abbr.strip()
+    return None
+
 def update_record(record, yaml_item):
     name_abbrs = {}
     
@@ -158,7 +177,10 @@ def update_record(record, yaml_item):
         for n in yaml_item['names']:
             name_node = {'level': 1, 'tag': 'NAME', 'value': n['name'], 'xref_id': None, 'children': []}
             
-            if n['name'] in name_abbrs:
+            computed_abbr = compute_abbreviation(n['name'])
+            if computed_abbr:
+                name_node['children'].append({'level': 2, 'tag': 'ABBR', 'value': computed_abbr, 'xref_id': None, 'children': []})
+            elif n['name'] in name_abbrs:
                 name_node['children'].append({'level': 2, 'tag': 'ABBR', 'value': name_abbrs[n['name']], 'xref_id': None, 'children': []})
             
             if 'period' in n:
