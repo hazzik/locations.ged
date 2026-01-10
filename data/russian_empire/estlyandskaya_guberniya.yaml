@@ -1,0 +1,49 @@
+- id: L137
+  name: Эстляндская губерния
+  names:
+  - name: Ревельская губерния
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 02 JUL 1783
+  - name: Ревельское наместничество
+    period: FROM @#DJULIAN@ 03 JUL 1783 TO @#DJULIAN@ 12 DEC 1796
+  - name: Эстляндская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 12 APR 1917
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 12 APR 1917
+- id: L272
+  name: Гарриенский уезд
+  names:
+  - name: Гарриенский уезд
+    period: FROM @#DJULIAN@ 1745 TO @#DJULIAN@ 12 APR 1917
+  parents:
+  - name: Эстляндская губерния
+    id: L137
+    period: FROM @#DJULIAN@ 1745 TO @#DJULIAN@ 12 APR 1917
+- id: L273
+  name: Вирляндский уезд
+  names:
+  - name: Вирляндский уезд
+    period: FROM @#DJULIAN@ 1745 TO @#DJULIAN@ 12 APR 1917
+  parents:
+  - name: Эстляндская губерния
+    id: L137
+    period: FROM @#DJULIAN@ 1745 TO @#DJULIAN@ 12 APR 1917
+- id: L274
+  name: Йервенский уезд
+  names:
+  - name: Йервенский уезд
+    period: FROM @#DJULIAN@ 1745 TO @#DJULIAN@ 12 APR 1917
+  parents:
+  - name: Эстляндская губерния
+    id: L137
+    period: FROM @#DJULIAN@ 1745 TO @#DJULIAN@ 12 APR 1917
+- id: L275
+  name: Викский уезд
+  names:
+  - name: Викский уезд
+    period: FROM @#DJULIAN@ 1745 TO @#DJULIAN@ 12 APR 1917
+  parents:
+  - name: Эстляндская губерния
+    id: L137
+    period: FROM @#DJULIAN@ 1745 TO @#DJULIAN@ 12 APR 1917

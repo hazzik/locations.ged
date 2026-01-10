@@ -1,0 +1,63 @@
+- id: L128
+  name: Уфимская губерния
+  names:
+  - name: Уфимская губерния
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 14 JUN 1922
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 14 JUN 1922
+- id: L266
+  name: Белебеевский уезд
+  names:
+  - name: Белебеевский уезд
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+  parents:
+  - name: Уфимская губерния
+    id: L128
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+- id: L267
+  name: Бирский уезд
+  names:
+  - name: Бирский уезд
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+  parents:
+  - name: Уфимская губерния
+    id: L128
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+- id: L268
+  name: Златоустовский уезд
+  names:
+  - name: Златоустовский уезд
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+  parents:
+  - name: Уфимская губерния
+    id: L128
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+- id: L269
+  name: Мензелинский уезд
+  names:
+  - name: Мензелинский уезд
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+  parents:
+  - name: Уфимская губерния
+    id: L128
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+- id: L270
+  name: Стерлитамакский уезд
+  names:
+  - name: Стерлитамакский уезд
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+  parents:
+  - name: Уфимская губерния
+    id: L128
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+- id: L271
+  name: Уфимский уезд
+  names:
+  - name: Уфимский уезд
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920
+  parents:
+  - name: Уфимская губерния
+    id: L128
+    period: FROM @#DJULIAN@ 05 MAY 1865 TO 1920

@@ -1,0 +1,268 @@
+- id: L3
+  name: Россия
+  names:
+  - name: Русское государство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 1547
+  - name: Русское царство
+    period: FROM @#DJULIAN@ 1547 TO @#DJULIAN@ 21 OCT 1721
+  - name: Российская Империя
+    period: FROM @#DJULIAN@ 22 OCT 1721 TO @#DJULIAN@ 31 AUG 1917
+  - name: Российская республика
+    period: FROM @#DJULIAN@ 01 SEP 1917 TO @#DJULIAN@ 17 JAN 1918
+  - name: Российская Социалистическая Федеративная Советская Республика
+    period: FROM @#DJULIAN@ 18 JAN 1918 TO 29 DEC 1922
+  - name: Российская Советская Федеративная Социалистическая Республика
+    period: FROM 30 DEC 1922 TO 25 DEC 1991
+  - name: Российская Федерация
+    period: FROM 26 DEC 1991
+  parents:
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 30 DEC 1922 TO 12 DEC 1991
+- id: L4
+  name: Молдова
+  names:
+  - name: Молдавская демократическая республика
+    period: FROM @#DJULIAN@ 02 DEC 1917 TO 10 DEC 1918
+  - name: Бессарабия
+    period: FROM 11 DEC 1918 TO 01 AUG 1940
+  - name: Молдавская Советская Социалистическая Республика
+    period: FROM 02 AUG 1940 TO 04 JUN 1990
+  - name: Советская Социалистическая Республика Молдова
+    period: FROM 05 JUN 1990 TO 22 MAY 1991
+  - name: Республика Молдова
+    period: FROM 23 MAY 1991
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1812 TO @#DJULIAN@ 06 FEB 1917
+  - name: Республика Румыния
+    id: L6
+    period: FROM 09 APR 1918 TO 28 JUN 1940
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 08 JUL 1940 TO 27 AUG 1991
+- id: L6
+  name: Румыния
+  names:
+  - name: Объединённое княжество Валахии и Молдавии
+    period: FROM 1859 TO 1881
+  - name: Королевство Румыния
+    period: FROM 1881 TO 1947
+  - name: Румынская Народная Республика
+    period: FROM 1947 TO 1965
+  - name: Социалистическая Республика Румыния
+    period: FROM 1965 TO 1989
+  - name: Румыния
+    period: FROM 1989
+  parents: []
+- id: L13
+  name: Финляндия
+  names:
+  - name: Великое Княжество Финляндское
+    period: FROM @#DJULIAN@ 29 MAR 1809 TO @#DJULIAN@ 06 DEC 1917
+  - name: Финляндская Республика
+    period: FROM @#DJULIAN@ 06 DEC 1917
+  parents: []
+- id: L27
+  name: СССР
+  names:
+  - name: Союз Советских Социалистических Республик
+    period: FROM 30 DEC 1922 TO 26 DEC 1991
+  parents: []
+- id: L140
+  name: Польша
+  names:
+  - name: Царство Польское
+    period: FROM @#DJULIAN@ 09 JUN 1815 TO @#DJULIAN@ 19 SEP 1915
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 JUN 1815 TO @#DJULIAN@ 19 SEP 1915
+- id: L231
+  name: Швеция
+  names:
+  - name: Королевство Швеция
+    period: FROM @#DJULIAN@ 06 JUN 1523
+  parents: []
+- id: L232
+  name: Эстония
+  names:
+  - name: Эстонская Республика
+    period: FROM 24 FEB 1918 TO 16 JUN 1940
+  - name: Эстонская Советская Социалистическая Республика
+    period: FROM 21 JUL 1940 TO 20 AUG 1991
+  - name: Республика Эстония
+    period: FROM 20 AUG 1991
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 12 APR 1917
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 21 JUL 1940 TO 20 AUG 1991
+- id: L233
+  name: Латвия
+  names:
+  - name: Латвийская Республика
+    period: FROM 18 NOV 1918 TO 17 JUN 1940
+  - name: Латвийская Советская Социалистическая Республика
+    period: FROM 05 AUG 1940 TO 21 AUG 1991
+  - name: Республика Латвия
+    period: FROM 21 AUG 1991
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 12 APR 1917
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 05 AUG 1940 TO 21 AUG 1991
+- id: L234
+  name: Литва
+  names:
+  - name: Литовская Республика
+    period: FROM 16 FEB 1918 TO 15 JUN 1940
+  - name: Литовская Советская Социалистическая Республика
+    period: FROM 03 AUG 1940 TO 11 MAR 1990
+  - name: Республика Литва
+    period: FROM 11 MAR 1990
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 16 FEB 1918
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 03 AUG 1940 TO 11 MAR 1990
+- id: L235
+  name: Украина
+  names:
+  - name: Украинская Народная Республика
+    period: FROM 07 NOV 1917 TO 29 APR 1918
+  - name: Украинская Советская Социалистическая Республика
+    period: FROM 30 DEC 1922 TO 24 AUG 1991
+  - name: Украина
+    period: FROM 24 AUG 1991
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 27 FEB 1802
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 30 DEC 1922 TO 24 AUG 1991
+- id: L236
+  name: Беларусь
+  names:
+  - name: Белорусская Советская Социалистическая Республика
+    period: FROM 30 DEC 1922 TO 25 AUG 1991
+  - name: Республика Беларусь
+    period: FROM 25 AUG 1991
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 27 FEB 1802
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 30 DEC 1922 TO 25 AUG 1991
+- id: L237
+  name: Грузия
+  names:
+  - name: Грузинская Демократическая Республика
+    period: FROM 26 MAY 1918 TO 25 FEB 1921
+  - name: Грузинская Советская Социалистическая Республика
+    period: FROM 25 FEB 1921 TO 09 APR 1991
+  - name: Республика Грузия
+    period: FROM 09 APR 1991
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 10 APR 1840 TO @#DJULIAN@ 26 MAY 1918
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 25 FEB 1921 TO 09 APR 1991
+- id: L238
+  name: Армения
+  names:
+  - name: Республика Армения
+    period: FROM 28 MAY 1918 TO 29 NOV 1920
+  - name: Армянская Советская Социалистическая Республика
+    period: FROM 29 NOV 1920 TO 23 SEP 1991
+  - name: Республика Армения
+    period: FROM 23 SEP 1991
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 JUN 1849 TO @#DJULIAN@ 28 MAY 1918
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 29 NOV 1920 TO 23 SEP 1991
+- id: L239
+  name: Азербайджан
+  names:
+  - name: Азербайджанская Демократическая Республика
+    period: FROM 28 MAY 1918 TO 28 APR 1920
+  - name: Азербайджанская Советская Социалистическая Республика
+    period: FROM 28 APR 1920 TO 30 AUG 1991
+  - name: Республика Азербайджан
+    period: FROM 30 AUG 1991
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 06 DEC 1859 TO 28 MAY 1918
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 28 APR 1920 TO 30 AUG 1991
+- id: L240
+  name: Казахстан
+  names:
+  - name: Казахская Советская Социалистическая Республика
+    period: FROM 05 DEC 1936 TO 16 DEC 1991
+  - name: Республика Казахстан
+    period: FROM 16 DEC 1991
+  parents:
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 05 DEC 1936 TO 16 DEC 1991
+- id: L241
+  name: Киргизия
+  names:
+  - name: Киргизская Советская Социалистическая Республика
+    period: FROM 05 DEC 1936 TO 31 AUG 1991
+  - name: Республика Кыргызстан
+    period: FROM 31 AUG 1991
+  parents:
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 05 DEC 1936 TO 31 AUG 1991
+- id: L242
+  name: Таджикистан
+  names:
+  - name: Таджикская Советская Социалистическая Республика
+    period: FROM 05 DEC 1929 TO 09 SEP 1991
+  - name: Республика Таджикистан
+    period: FROM 09 SEP 1991
+  parents:
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 05 DEC 1929 TO 09 SEP 1991
+- id: L243
+  name: Туркменистан
+  names:
+  - name: Туркменская Советская Социалистическая Республика
+    period: FROM 13 MAY 1925 TO 27 OCT 1991
+  - name: Туркменистан
+    period: FROM 27 OCT 1991
+  parents:
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 13 MAY 1925 TO 27 OCT 1991
+- id: L244
+  name: Узбекистан
+  names:
+  - name: Узбекская Советская Социалистическая Республика
+    period: FROM 05 DEC 1924 TO 31 AUG 1991
+  - name: Республика Узбекистан
+    period: FROM 31 AUG 1991
+  parents:
+  - name: Союз Советских Социалистических Республик
+    id: L27
+    period: FROM 05 DEC 1924 TO 31 AUG 1991

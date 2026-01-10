@@ -1,0 +1,136 @@
+- id: L19
+  name: Казанская губерния
+  names:
+  - name: Казанская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 SEP 1781
+  - name: Казанское наместничество
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO @#DJULIAN@ 11 DEC 1796
+  - name: Казанская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 27 MAY 1920
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 27 MAY 1920
+- id: L276
+  name: Казанский уезд
+  names:
+  - name: Казанский уезд
+    period: FROM @#DJULIAN@ 1552 TO 27 MAY 1920
+  parents:
+  - name: Россия
+    id: L3
+    period: FROM @#DJULIAN@ 1552 TO @#DJULIAN@ 18 DEC 1708
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 27 MAY 1920
+- id: L277
+  name: Козмодемьянский уезд
+  names:
+  - name: Козмодемьянский уезд
+    period: FROM @#DJULIAN@ 1727 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 27 MAY 1920
+- id: L278
+  name: Лаишевский уезд
+  names:
+  - name: Лаишевский уезд
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+- id: L279
+  name: Мамадышский уезд
+  names:
+  - name: Мамадышский уезд
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+- id: L280
+  name: Свияжский уезд
+  names:
+  - name: Свияжский уезд
+    period: FROM @#DJULIAN@ 1568 TO 27 MAY 1920
+  parents:
+  - name: Россия
+    id: L3
+    period: FROM @#DJULIAN@ 1568 TO @#DJULIAN@ 18 DEC 1708
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 27 MAY 1920
+- id: L281
+  name: Спасский уезд
+  names:
+  - name: Спасский уезд
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Казанская губерния
+    id: L19
+    period: FROM 1802 TO 27 MAY 1920
+- id: L282
+  name: Тетюшский уезд
+  names:
+  - name: Тетюшский уезд
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Казанская губерния
+    id: L19
+    period: FROM 1802 TO 27 MAY 1920
+- id: L283
+  name: Царёвококшайский уезд
+  names:
+  - name: Царёвококшайский уезд
+    period: FROM @#DJULIAN@ 1727 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 1727 TO 27 MAY 1920
+- id: L284
+  name: Цивильский уезд
+  names:
+  - name: Цивильский уезд
+    period: FROM @#DJULIAN@ 1589 TO 27 MAY 1920
+  parents:
+  - name: Россия
+    id: L3
+    period: FROM @#DJULIAN@ 1589 TO @#DJULIAN@ 18 DEC 1708
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 27 MAY 1920
+- id: L285
+  name: Чебоксарский уезд
+  names:
+  - name: Чебоксарский уезд
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+- id: L286
+  name: Чистопольский уезд
+  names:
+  - name: Чистопольский уезд
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+- id: L287
+  name: Ядринский уезд
+  names:
+  - name: Ядринский уезд
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920
+  parents:
+  - name: Казанская губерния
+    id: L19
+    period: FROM @#DJULIAN@ 28 SEP 1781 TO 27 MAY 1920

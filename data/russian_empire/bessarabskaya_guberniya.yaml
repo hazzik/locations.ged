@@ -1,0 +1,81 @@
+- id: L245
+  name: Бессарабская губерния
+  names:
+  - name: Бессарабская губерния
+    period: FROM @#DJULIAN@ 1812 TO @#DJULIAN@ 01 DEC 1917
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1812 TO @#DJULIAN@ 01 DEC 1917
+- id: L246
+  name: Аккерманский уезд
+  names:
+  - name: Аккерманский уезд
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+  parents:
+  - name: Бессарабская губерния
+    id: L245
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+- id: L247
+  name: Белецкий уезд
+  names:
+  - name: Белецкий уезд
+    period: FROM @#DJULIAN@ 1861 TO @#DJULIAN@ 01 DEC 1917
+  parents:
+  - name: Бессарабская губерния
+    id: L245
+    period: FROM @#DJULIAN@ 1861 TO @#DJULIAN@ 01 DEC 1917
+- id: L248
+  name: Бендерский уезд
+  names:
+  - name: Бендерский уезд
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+  parents:
+  - name: Бессарабская губерния
+    id: L245
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+- id: L249
+  name: Измаильский уезд
+  names:
+  - name: Измаильский уезд
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+  parents:
+  - name: Бессарабская губерния
+    id: L245
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+- id: L250
+  name: Кишинёвский уезд
+  names:
+  - name: Кишинёвский уезд
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+  parents:
+  - name: Бессарабская губерния
+    id: L245
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+- id: L251
+  name: Оргеевский уезд
+  names:
+  - name: Оргеевский уезд
+    period: FROM @#DJULIAN@ 1818 TO 1949
+  parents:
+  - name: Бессарабская губерния
+    id: L245
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+- id: L252
+  name: Сорокский уезд
+  names:
+  - name: Сорокский уезд
+    period: FROM @#DJULIAN@ 1835 TO @#DJULIAN@ 01 DEC 1917
+  parents:
+  - name: Бессарабская губерния
+    id: L245
+    period: FROM @#DJULIAN@ 1835 TO @#DJULIAN@ 01 DEC 1917
+- id: L253
+  name: Хотинский уезд
+  names:
+  - name: Хотинский уезд
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917
+  parents:
+  - name: Бессарабская губерния
+    id: L245
+    period: FROM @#DJULIAN@ 1818 TO @#DJULIAN@ 01 DEC 1917

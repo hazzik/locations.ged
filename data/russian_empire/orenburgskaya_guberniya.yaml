@@ -1,0 +1,76 @@
+- id: L1
+  name: Оренбургская губерния
+  names:
+  - name: Оренбургская губерния
+    period: FROM @#DJULIAN@ 15 MAR 1744 TO @#DJULIAN@ 23 DEC 1781
+  - name: Уфимское наместничество
+    period: FROM @#DJULIAN@ 23 DEC 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Оренбургская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 15 MAR 1744 TO 14 MAY 1928
+- id: L288
+  name: Оренбургский уезд
+  names:
+  - name: Оренбургский уезд
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
+  parents:
+  - name: Оренбургская губерния
+    id: L1
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
+- id: L289
+  name: Верхнеуральский уезд
+  names:
+  - name: Верхнеуральский уезд
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
+  parents:
+  - name: Оренбургская губерния
+    id: L1
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
+- id: L290
+  name: Бузулукский уезд
+  names:
+  - name: Бузулукский уезд
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 1850
+  parents:
+  - name: Оренбургская губерния
+    id: L1
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 1850
+- id: L291
+  name: Сергиевский уезд
+  names:
+  - name: Сергиевский уезд
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 1803
+  parents:
+  - name: Оренбургская губерния
+    id: L1
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 1803
+- id: L292
+  name: Троицкий уезд
+  names:
+  - name: Троицкий уезд
+    period: FROM @#DJULIAN@ 1803 TO 14 MAY 1928
+  parents:
+  - name: Оренбургская губерния
+    id: L1
+    period: FROM @#DJULIAN@ 1803 TO 14 MAY 1928
+- id: L293
+  name: Челябинский уезд
+  names:
+  - name: Челябинский уезд
+    period: FROM @#DJULIAN@ 1865 TO @#DJULIAN@ 1919
+  parents:
+  - name: Оренбургская губерния
+    id: L1
+    period: FROM @#DJULIAN@ 1865 TO @#DJULIAN@ 1919
+- id: L294
+  name: Орский уезд
+  names:
+  - name: Орский уезд
+    period: FROM @#DJULIAN@ 1865 TO 14 MAY 1928
+  parents:
+  - name: Оренбургская губерния
+    id: L1
+    period: FROM @#DJULIAN@ 1865 TO 14 MAY 1928

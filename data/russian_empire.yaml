@@ -1,0 +1,1231 @@
+- id: L25
+  name: Августовская губерния
+  names:
+  - name: Августовская губерния
+    period: FROM @#DJULIAN@ 03 MAY 1837 TO @#DJULIAN@ 19 DEC 1866
+  parents:
+  - name: Царство Польское
+    id: L140
+    period: FROM @#DJULIAN@ 03 MAY 1837
+- id: L141
+  name: Азовская губерния
+  names:
+  - name: Азовская губерния
+    period: FROM @#DJULIAN@ 14 FEB 1775 TO @#DJULIAN@ 30 MAR 1783
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1775 TO @#DJULIAN@ 1783
+- id: L30
+  name: Алтайская губерния
+  names:
+  - name: Алтайская губерния
+    period: FROM @#DJULIAN@ 17 JUN 1917 TO 25 MAY 1925
+  parents:
+  - id: L3
+    name: Российская Империя
+    period: FROM @#DJULIAN@ 17 JUN 1917 TO 25 MAY 1925
+- id: L31
+  name: Архангелогородская губерния
+  names:
+  - name: Архангелогородская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 24 JAN 1780
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708
+- id: L32
+  name: Архангельская губерния
+  names:
+  - name: Архангельское наместничество
+    period: FROM @#DJULIAN@ 26 MAR 1784 TO @#DJULIAN@ 11 DEC 1796
+  - name: Архангельская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 26 MAR 1784 TO 14 JAN 1929
+- id: L33
+  name: Астраханская губерния
+  names:
+  - name: Астраханская губерния
+    period: FROM @#DJULIAN@ 22 NOV 1717 TO 21 MAY 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 22 NOV 1717
+- id: L34
+  name: Бакинская губерния
+  names:
+  - name: Шемахинская губерния
+    period: FROM @#DJULIAN@ 14 DEC 1846 TO @#DJULIAN@ 05 DEC 1859
+  - name: Бакинская губерния
+    period: FROM @#DJULIAN@ 06 DEC 1859 TO 28 APR 1920
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 14 DEC 1846 TO 28 APR 1920
+- id: L35
+  name: Белгородская губерния
+  names:
+  - name: Белгородская губерния
+    period: FROM @#DJULIAN@ 01 MAR 1727 TO @#DJULIAN@ 23 MAY 1779
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 01 MAR 1727 TO @#DJULIAN@ 23 MAY 1779
+- id: L36
+  name: Белорусская губерния
+  names:
+  - name: Белорусская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 27 FEB 1802
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 27 FEB 1802
+- id: L38
+  name: Букеевская губерния
+  names:
+  - name: Букеевская губерния
+    period: FROM @#DJULIAN@ 01 JUL 1917 TO 06 JUN 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 01 JUL 1917 TO 29 DEC 1922
+- id: L187
+  name: Вазаская губерния
+  names:
+  - name: Вазаская губерния
+    period: FROM @#DJULIAN@ 24 MAR 1831 TO @#DJULIAN@ 28 JUN 1855
+  - name: Николайстадская губерния
+    period: FROM @#DJULIAN@ 29 JUN 1855 TO @#DJULIAN@ 18 OCT 1917
+  - name: Вазаская губерния
+    period: FROM @#DJULIAN@ 19 OCT 1917 TO 01 SEP 1997
+  parents:
+  - name: Королевство Швеция
+    id: L231
+    period: FROM @#DJULIAN@ - 17 SEP 1809
+  - name: Финляндская Республика
+    id: L13
+    period: FROM @#DJULIAN@ 17 SEP 1809 TO 01 SEP 1997
+- id: L39
+  name: Варшавская губерния
+  names:
+  - name: Мазовецкая губерния
+    period: FROM @#DJULIAN@ 03 MAY 1837 TO @#DJULIAN@ 08 AUG 1844
+  - name: Варшавская губерния
+    period: FROM @#DJULIAN@ 09 AUG 1844 TO 13 AUG 1919
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 03 MAY 1837 TO 13 AUG 1919
+- id: L40
+  name: Виленская губерния
+  names:
+  - name: Виленская губерния
+    period: FROM @#DJULIAN@ 14 DEC 1795 TO @#DJULIAN@ 07 AUG 1796
+  - name: Виленское наместничество
+    period: FROM @#DJULIAN@ 08 AUG 1796 TO @#DJULIAN@ 11 DEC 1796
+  - name: Виленская губерния
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 16 FEB 1918
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 14 DEC 1795 TO @#DJULIAN@ 11 DEC 1796
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 16 FEB 1918
+- id: L41
+  name: Витебская губерния
+  names:
+  - name: Витебская губерния
+    period: FROM @#DJULIAN@ 27 FEB 1802 TO 24 MAR 1924
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM - 29 DEC 1922
+- id: L42
+  name: Владимирская губерния
+  names:
+  - name: Владимирское наместничество
+    period: FROM @#DJULIAN@ 01 SEP 1778 TO @#DJULIAN@ 11 DEC 1796
+  - name: Владимирская губерния
+    period: FROM @#DJULIAN@ 01 NOV 1796 TO 01 OCT 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 01 SEP 1778 TO 01 OCT 1929
+- id: L43
+  name: Вологодская губерния
+  names:
+  - name: Вологодское наместничество
+    period: FROM @#DJULIAN@ 25 JAN 1780 TO @#DJULIAN@ 11 DEC 1796
+  - name: Вологодская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 25 JAN 1780 TO 14 JAN 1929
+- id: L44
+  name: Волынская губерния
+  names:
+  - name: Волынская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 03 JUN 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796
+- id: L29
+  name: Воронежская губерния
+  names:
+  - name: Азовская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 24 APR 1725
+  - name: Воронежская губерния
+    period: FROM @#DJULIAN@ 25 APR 1725 TO @#DJULIAN@ 24 SEP 1779
+  - name: Воронежское наместничество
+    period: FROM @#DJULIAN@ 25 SEP 1779 TO @#DJULIAN@ 11 DEC 1796
+  - name: Воронежская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 14 MAY 1928
+- id: L46
+  name: Выборгская губерния
+  names:
+  - name: Выборгская губерния
+    period: FROM @#DJULIAN@ 14 JAN 1744 TO 19 SEP 1944
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 14 JAN 1744 TO @#DJULIAN@ 23 DEC 1811
+  - name: Финляндская Республика
+    id: L13
+    period: FROM @#DJULIAN@ 23 DEC 1811 TO 19 SEP 1944
+- id: L47
+  name: Вятская губерния
+  names:
+  - name: Вятское наместничество
+    period: FROM @#DJULIAN@ 11 SEP 1780 TO @#DJULIAN@ 11 DEC 1796
+  - name: Вятская губерния
+    period: FROM @#DJULIAN@ 1796 TO 14 DEC 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 11 SEP 1780 TO 14 DEC 1929
+- id: L53
+  name: Ганджинская губерния
+  names:
+  - name: Елизаветпольская губерния
+    period: FROM @#DJULIAN@ 09 DEC 1867 TO 30 JUL 1918
+  - name: Ганджинская губерния
+    period: FROM 30 JUL 1918 TO 28 APR 1920
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 DEC 1867 TO @#DJULIAN@ 25 OCT 1917
+- id: L48
+  name: Гродненская губерния
+  names:
+  - name: Гродненская губерния
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 18 MAR 1921
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 18 MAR 1921
+- id: L49
+  name: Грузино-Имеретинская губерния
+  names:
+  - name: Грузино-Имеретинская губерния
+    period: FROM @#DJULIAN@ 10 APR 1840 TO @#DJULIAN@ 13 DEC 1846
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 10 APR 1840
+- id: L50
+  name: Грузинская губерния
+  names:
+  - name: Грузинская губерния
+    period: FROM @#DJULIAN@ 1801 TO @#DJULIAN@ 09 APR 1840
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1801 TO @#DJULIAN@ 1840
+- id: L237
+  name: Дагестанская область
+  names:
+  - name: Дагестанская область
+    period: FROM @#DJULIAN@ 30 MAY 1860 TO 20 JAN 1921
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 30 MAY 1860 TO 20 JAN 1921
+- id: L51
+  name: Дербентская губерния
+  names:
+  - name: Дербентская губерния
+    period: FROM @#DJULIAN@ 14 DEC 1846 TO @#DJULIAN@ 30 MAY 1860
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 14 DEC 1846 TO @#DJULIAN@ 30 MAY 1860
+- id: L16
+  name: Екатеринбургская область
+  names:
+  - name: Екатеринбургская область
+    period: FROM @#DJULIAN@ 27 JAN 1781 TO @#DJULIAN@ 11 DEC 1796
+  parents:
+  - name: Пермская губерния
+    id: L17
+    period: FROM @#DJULIAN@ 27 JAN 1781 TO @#DJULIAN@ 11 DEC 1796
+- id: L52
+  name: Екатеринославская губерния
+  names:
+  - name: Екатеринославская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1802 TO 01 AUG 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 08 OCT 1802 TO @#DJULIAN@ 25 OCT 1917
+- id: L54
+  name: Енисейская губерния
+  names:
+  - name: Енисейская губерния
+    period: FROM @#DJULIAN@ 26 JAN 1822 TO 25 MAY 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 26 JAN 1822 TO 25 MAY 1925
+- id: L55
+  name: Иркутская губерния
+  names:
+  - name: Иркутская губерния
+    period: FROM @#DJULIAN@ 1764 TO 28 JUN 1926
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM - 29 DEC 1922
+- id: L56
+  name: Кавказское наместничество
+  names:
+  - name: Кавказское наместничество
+    period: FROM @#DJULIAN@ 05 MAY 1785 TO @#DJULIAN@ 12 DEC 1796
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 05 MAY 1785 TO @#DJULIAN@ 12 DEC 1796
+- id: L59
+  name: Калишская губерния
+  names:
+  - name: Калишская губерния
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO @#DJULIAN@ 1844
+  - name: Калишская губерния
+    period: FROM @#DJULIAN@ 1867 TO @#DJULIAN@ 1917
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO @#DJULIAN@ 1844
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1867 TO @#DJULIAN@ 1917
+- id: L60
+  name: Калужское наместничество
+  names:
+  - name: Калужская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 OCT 1929
+  - name: Калужское наместничество
+    period: FROM @#DJULIAN@ 24 AUG 1776 TO @#DJULIAN@ 11 DEC 1796
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 24 AUG 1776 TO 01 OCT 1929
+- id: L61
+  name: Келецкая губерния
+  names:
+  - name: Келецкая губерния
+    period: FROM @#DJULIAN@ 19 DEC 1866
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 19 DEC 1866
+- id: L67
+  name: Келецкая губерния
+  names:
+  - name: Краковская губерния
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO @#DJULIAN@ 15 JUN 1841
+  - name: Келецкая губерния
+    period: FROM @#DJULIAN@ 15 JUN 1841 TO @#DJULIAN@ 09 AUG 1844
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO @#DJULIAN@ 09 AUG 1844
+- id: L62
+  name: Киевская губерния
+  names:
+  - name: Киевская губерния
+    period: FROM @#DJULIAN@ 1796
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1796
+- id: L63
+  name: Киевская губерния (1708–1764)
+  names:
+  - name: Киевская губерния (1708–1764)
+    period: FROM @#DJULIAN@ 1708
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1708
+- id: L64
+  name: Ковенская губерния
+  names:
+  - name: Ковенская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1842
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1842
+- id: L65
+  name: Колыванское наместничество
+  names:
+  - name: Колыванская область
+    period: FROM @#DJULIAN@ 01 MAY 1779 TO @#DJULIAN@ 06 MAR 1783
+  - name: Колыванское наместничество
+    period: FROM @#DJULIAN@ 06 MAR 1783 TO @#DJULIAN@ 11 DEC 1796
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 01 MAY 1779 TO @#DJULIAN@ 11 DEC 1796
+- id: L66
+  name: Костромская губерния
+  names:
+  - name: Костромское наместничество
+    period: FROM @#DJULIAN@ 06 MAR 1778 TO @#DJULIAN@ 11 DEC 1796
+  - name: Костромская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 06 MAR 1778 TO 14 JAN 1929
+- id: L236
+  name: Кубанская область
+  names:
+  - name: Кубанская область
+    period: FROM @#DJULIAN@ 08 FEB 1860 TO 28 JAN 1918
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 08 FEB 1860 TO 28 JAN 1918
+- id: L20
+  name: Кунгурский уезд
+  names:
+  - name: Кунгурский уезд
+    period: FROM @#DJULIAN@ 1672 TO 03 NOV 1923
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Вятская провинция
+    id: L21
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 03 JUN 1724
+  - name: Кунгурская провинция
+    id: L18
+    period: FROM @#DJULIAN@ 04 JUN 1724 TO @#DJULIAN@ 26 JAN 1781
+  - name: Пермская область
+    id: L22
+    period: FROM @#DJULIAN@ 27 JAN 1781 TO @#DJULIAN@ 11 DEC 1796
+  - name: Пермская губерния
+    id: L17
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 03 NOV 1923
+- id: L68
+  name: Куопиоская губерния
+  names:
+  - name: Куопиоская губерния
+    period: FROM @#DJULIAN@ 24 MAR 1831
+  - name: Куопиоская губерния
+    period: FROM @#DJULIAN@ 07 DEC 1917 TO 01 SEP 1997
+  parents:
+  - name: Королевство Швеция
+    id: L231
+    period: FROM @#DJULIAN@ - 17 SEP 1809
+  - name: Финляндская Республика
+    id: L13
+    period: FROM @#DJULIAN@ 17 SEP 1809 TO 01 SEP 1997
+- id: L69
+  name: Курляндская губерния
+  names:
+  - name: Курляндская губерния
+    period: FROM @#DJULIAN@ 1797
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1797
+- id: L70
+  name: Курская губерния
+  names:
+  - name: Курская губерния
+    period: FROM @#DJULIAN@ 1796
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1796
+- id: L71
+  name: Кутаисская губерния
+  names:
+  - name: Кутаисская губерния
+    period: FROM @#DJULIAN@ 14 DEC 1846 TO @#DJULIAN@ 1917
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 14 DEC 1846 TO @#DJULIAN@ 1917
+- id: L72
+  name: Кюмменегордская губерния
+  names:
+  - name: Кюмменегордская губерния
+    period: FROM @#DJULIAN@ 1775
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1775
+- id: L109
+  name: Ленинградская губерния
+  names:
+  - name: Санкт-Петербургская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 18 AUG 1914
+  - name: Петроградская губерния
+    period: FROM @#DJULIAN@ 18 AUG 1914 TO 26 JAN 1924
+  - name: Ленинградская губерния
+    period: FROM 26 JAN 1924 TO 01 AUG 1927
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 01 AUG 1927
+- id: L73
+  name: Литовская губерния
+  names:
+  - name: Литовская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 09 SEP 1801
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 09 SEP 1801
+- id: L106
+  name: Лифляндская губерния
+  names:
+  - name: Рижская губерния
+    period: FROM @#DJULIAN@ 17 JUL 1713 TO @#DJULIAN@ 03 JUL 1783
+  - name: Рижское наместничество
+    period: FROM @#DJULIAN@ 03 JUL 1783 TO @#DJULIAN@ 11 DEC 1796
+  - name: Лифляндская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 30 MAR 1917
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 17 JUL 1713 TO @#DJULIAN@ 30 MAR 1917
+- id: L75
+  name: Ломжинская губерния
+  names:
+  - name: Ломжинская губерния
+    period: FROM @#DJULIAN@ 19 DEC 1866 TO 14 AUG 1919
+  parents:
+  - name: Царство Польское
+    id: L140
+    period: FROM @#DJULIAN@ 19 DEC 1866 TO 14 AUG 1919
+- id: L76
+  name: Львовская губерния
+  names:
+  - name: Львовская губерния
+    period: FROM @#DJULIAN@ 1914
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1914
+- id: L77
+  name: Люблинская губерния
+  names:
+  - name: Люблинская губерния
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO 30 JUL 1915
+  parents:
+  - name: Царство Польское
+    id: L140
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO 30 JUL 1915
+- id: L79
+  name: Малороссийская губерния
+  names:
+  - name: Малороссийская губерния
+    period: FROM @#DJULIAN@ 10 NOV 1764 TO @#DJULIAN@ 16 SEP 1781
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 10 NOV 1764 TO @#DJULIAN@ 16 SEP 1781
+- id: L80
+  name: Малороссийская губерния
+  names:
+  - name: Малороссийская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 27 FEB 1802
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 27 FEB 1802
+- id: L209
+  name: Миккельская губерния
+  names:
+  - name: Санкт-Михельская губерния
+    period: FROM @#DJULIAN@ 1831 TO @#DJULIAN@ 1917
+  - name: Миккельская губерния
+    period: FROM @#DJULIAN@ 07 DEC 1917 TO 01 SEP 1997
+  parents:
+  - name: Королевство Швеция
+    id: L231
+    period: FROM @#DJULIAN@ - 17 SEP 1809
+  - name: Финляндская Республика
+    id: L13
+    period: FROM @#DJULIAN@ 17 SEP 1809 TO 01 SEP 1997
+- id: L81
+  name: Минская губерния
+  names:
+  - name: Минская губерния
+    period: FROM @#DJULIAN@ 23 APR 1793 TO @#DJULIAN@ 03 MAY 1795
+  - name: Минское наместничество
+    period: FROM @#DJULIAN@ 03 MAY 1795 TO @#DJULIAN@ 12 DEC 1796
+  - name: Минская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 18 MAR 1921
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 23 APR 1793 TO 18 MAR 1921
+- id: L82
+  name: Могилёвская губерния
+  names:
+  - name: Могилёвская губерния
+    period: FROM @#DJULIAN@ 28 MAY 1772 TO @#DJULIAN@ 22 MAR 1777
+  - name: Могилёвское наместничество
+    period: FROM @#DJULIAN@ 22 MAR 1777 TO @#DJULIAN@ 12 DEC 1796
+  - name: Могилёвская губерния
+    period: FROM @#DJULIAN@ 27 FEB 1802 TO 11 JUL 1919
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 28 MAY 1772 TO @#DJULIAN@ 12 DEC 1796
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 27 FEB 1802 TO 11 JUL 1919
+- id: L83
+  name: Московская губерния
+  names:
+  - name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 05 OCT 1781
+  - name: Московское наместничество
+    period: FROM @#DJULIAN@ 05 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Московская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 14 JAN 1929
+- id: L84
+  name: Нижегородская губерния
+  names:
+  - name: Нижегородская губерния
+    period: FROM @#DJULIAN@ 26 JAN 1714 TO @#DJULIAN@ 22 NOV 1717
+  - name: Нижегородская губерния
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 05 SEP 1779
+  - name: Нижегородское наместничество
+    period: FROM @#DJULIAN@ 05 SEP 1779 TO @#DJULIAN@ 12 DEC 1796
+  - name: Нижегородская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 26 JAN 1714 TO @#DJULIAN@ 22 NOV 1717
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO 14 JAN 1929
+- id: L86
+  name: Николаевская губерния
+  names:
+  - name: Николаевская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1802 TO @#DJULIAN@ 15 MAY 1803
+  - name: Николаевская губерния
+    period: FROM 16 APR 1920 TO 21 OCT 1922
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 08 OCT 1802 TO @#DJULIAN@ 15 MAY 1803
+  - name: Российская Империя
+    id: L3
+    period: FROM 16 APR 1920 TO 21 OCT 1922
+- id: L87
+  name: Новгородская губерния
+  names:
+  - name: Новгородская губерния
+    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 24 AUG 1776
+  - name: Новгородское наместничество
+    period: FROM @#DJULIAN@ 24 AUG 1776 TO @#DJULIAN@ 12 DEC 1796
+  - name: Новгородская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 AUG 1927
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 29 APR 1727 TO 01 AUG 1927
+- id: L88
+  name: Новороссийская губерния
+  names:
+  - name: Новороссийская губерния
+    period: FROM @#DJULIAN@ 1764
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1764
+- id: L89
+  name: Новороссийская губерния
+  names:
+  - name: Новороссийская губерния
+    period: FROM @#DJULIAN@ 1796
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1796
+- id: L91
+  name: Олонецкая губерния
+  names:
+  - name: Олонецкое наместничество
+    period: FROM @#DJULIAN@ 22 MAY 1784 TO @#DJULIAN@ 12 DEC 1796
+  - name: Олонецкая губерния
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 18 SEP 1922
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 22 MAY 1784 TO @#DJULIAN@ 12 DEC 1796
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 18 SEP 1922
+- id: L93
+  name: Орловская губерния
+  names:
+  - name: Орловское наместничество
+    period: FROM @#DJULIAN@ 28 FEB 1778 TO @#DJULIAN@ 12 DEC 1796
+  - name: Орловская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 16 JUL 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 28 FEB 1778 TO 16 JUL 1928
+- id: L230
+  name: Оулуская губерния
+  names:
+  - name: Улеаборгская губерния
+    period: FROM @#DJULIAN@ 1831 TO @#DJULIAN@ 1917
+  - name: Оулуская губерния
+    period: FROM @#DJULIAN@ 07 DEC 1917 TO 31 DEC 2009
+  parents:
+  - name: Королевство Швеция
+    id: L231
+    period: FROM @#DJULIAN@ - 17 SEP 1809
+  - name: Финляндская Республика
+    id: L13
+    period: FROM @#DJULIAN@ 17 SEP 1809 TO 31 DEC 2009
+- id: L94
+  name: Пензенская губерния
+  names:
+  - name: Пензенское наместничество
+    period: FROM @#DJULIAN@ 15 SEP 1780 TO @#DJULIAN@ 05 MAR 1797
+  - name: Пензенская губерния
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 14 MAY 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 15 SEP 1780 TO @#DJULIAN@ 05 MAR 1797
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 SEP 1801 TO 14 MAY 1928
+- id: L95
+  name: Перемышльская губерния
+  names:
+  - name: Перемышльская губерния
+    period: FROM @#DJULIAN@ 1915
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1915
+- id: L22
+  name: Пермская область
+  names:
+  - name: Пермская область
+    period: FROM @#DJULIAN@ 27 JAN 1781 TO @#DJULIAN@ 11 DEC 1796
+  parents:
+  - name: Пермская губерния
+    id: L17
+    period: FROM @#DJULIAN@ 27 JAN 1781 TO @#DJULIAN@ 11 DEC 1796
+- id: L97
+  name: Петроковская губерния
+  names:
+  - name: Петроковская губерния
+    period: FROM @#DJULIAN@ 19 DEC 1866
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 19 DEC 1866
+- id: L98
+  name: Плоцкая губерния
+  names:
+  - name: Плоцкая губерния
+    period: FROM @#DJULIAN@ 23 FEB 1837
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 23 FEB 1837
+- id: L99
+  name: Подлясская губерния
+  names:
+  - name: Подлясская губерния
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO @#DJULIAN@ 09 AUG 1844
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO @#DJULIAN@ 09 AUG 1844
+- id: L100
+  name: Подольская губерния
+  names:
+  - name: Подольское наместничество
+    period: FROM @#DJULIAN@ 05 JUL 1795 TO @#DJULIAN@ 12 DEC 1796
+  - name: Подольская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 AUG 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 05 JUL 1795 TO 01 AUG 1925
+- id: L101
+  name: Полоцкая губерния
+  names:
+  - name: Полоцкая губерния
+    period: FROM @#DJULIAN@ 1776
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1776
+- id: L102
+  name: Полтавская губерния
+  names:
+  - name: Полтавская губерния
+    period: FROM @#DJULIAN@ 27 FEB 1802 TO 01 AUG 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 27 FEB 1802 TO 01 AUG 1925
+- id: L103
+  name: Псковская губерния
+  names:
+  - name: Псковская губерния
+    period: FROM @#DJULIAN@ 28 MAY 1772 TO @#DJULIAN@ 24 AUG 1777
+  - name: Псковское наместничество
+    period: FROM @#DJULIAN@ 24 AUG 1777 TO @#DJULIAN@ 12 DEC 1796
+  - name: Псковская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 AUG 1927
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 28 MAY 1772 TO 01 AUG 1927
+- id: L104
+  name: Радомская губерния
+  names:
+  - name: Радомская губерния
+    period: FROM @#DJULIAN@ 09 AUG 1844 TO 20 JUL 1915
+  parents:
+  - name: Царство Польское
+    id: L140
+    period: FROM @#DJULIAN@ 09 AUG 1844 TO 20 JUL 1915
+
+- id: L207
+  name: Рязанская губерния
+  names:
+  - name: Рязанское наместничество
+    period: FROM @#DJULIAN@ 28 FEB 1778 TO @#DJULIAN@ 12 DEC 1796
+  - name: Рязанская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 OCT 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 28 FEB 1778 TO 01 OCT 1929
+- id: L107
+  name: Самарская губерния
+  names:
+  - name: Самарская губерния
+    period: FROM @#DJULIAN@ 06 DEC 1850 TO 14 MAY 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 06 DEC 1850 TO 14 MAY 1928
+- id: L108
+  name: Сандомирская губерния
+  names:
+  - name: Сандомирская губерния
+    period: FROM @#DJULIAN@ 1837 TO @#DJULIAN@ 1844
+  parents:
+  - name: Царство Польское
+    id: L140
+    period: FROM @#DJULIAN@ 1837 TO @#DJULIAN@ 1844
+- id: L110
+  name: Саратовская губерния
+  names:
+  - name: Саратовское наместничество
+    period: FROM @#DJULIAN@ 11 JAN 1780 TO @#DJULIAN@ 12 DEC 1796
+  - name: Саратовская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 21 MAY 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 11 JAN 1780 TO 21 MAY 1928
+- id: L111
+  name: Седлецкая губерния
+  names:
+  - name: Седлецкая губерния
+    period: FROM @#DJULIAN@ 01 JAN 1867 TO @#DJULIAN@ 1912
+  parents:
+  - name: Царство Польское
+    id: L140
+    period: FROM @#DJULIAN@ 01 JAN 1867 TO @#DJULIAN@ 1912
+- id: L26
+  name: Симбирская губерния
+  names:
+  - name: Симбирское наместничество
+    period: FROM @#DJULIAN@ 15 SEP 1780 TO @#DJULIAN@ 12 DEC 1796
+  - name: Симбирская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 15 SEP 1780 TO 14 MAY 1928
+- id: L114
+  name: Слободско-Украинская губерния
+  names:
+  - name: Слободско-Украинская губерния
+    period: FROM @#DJULIAN@ 28 JUL 1765 TO @#DJULIAN@ 29 SEP 1780
+  - name: Слободско-Украинская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 05 DEC 1835
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 28 JUL 1765 TO @#DJULIAN@ 29 SEP 1780
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 05 DEC 1835
+- id: L117
+  name: Смоленская губерния
+  names:
+  - name: Смоленская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 17 JUL 1713
+  - name: Смоленская губерния
+    period: FROM @#DJULIAN@ 1726 TO @#DJULIAN@ 23 DEC 1775
+  - name: Смоленское наместничество
+    period: FROM @#DJULIAN@ 23 DEC 1775 TO @#DJULIAN@ 12 DEC 1796
+  - name: Смоленская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 14 JAN 1929
+- id: L119
+  name: Сувалкская губерния
+  names:
+  - name: Сувалкская губерния
+    period: FROM @#DJULIAN@ 01 JAN 1867 TO @#DJULIAN@ 1915
+  parents:
+  - name: Царство Польское
+    id: L140
+    period: FROM @#DJULIAN@ 01 JAN 1867 TO @#DJULIAN@ 1915
+- id: L120
+  name: Таврическая губерния
+  names:
+  - name: Таврическая область
+    period: FROM @#DJULIAN@ 08 FEB 1784 TO @#DJULIAN@ 12 DEC 1796
+  - name: Таврическая губерния
+    period: FROM @#DJULIAN@ 08 OCT 1802 TO 18 OCT 1921
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 08 FEB 1784 TO @#DJULIAN@ 12 DEC 1796
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 08 OCT 1802 TO 18 OCT 1921
+- id: L121
+  name: Тамбовская губерния
+  names:
+  - name: Тамбовское наместничество
+    period: FROM @#DJULIAN@ 16 SEP 1779 TO @#DJULIAN@ 12 DEC 1796
+  - name: Тамбовская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 16 SEP 1779 TO 14 MAY 1928
+- id: L122
+  name: Тарнопольская губерния
+  names:
+  - name: Тарнопольская губерния
+    period: FROM @#DJULIAN@ 1914
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1914
+- id: L123
+  name: Тверская губерния
+  names:
+  - name: Тверское наместничество
+    period: FROM @#DJULIAN@ 25 NOV 1775 TO @#DJULIAN@ 12 DEC 1796
+  - name: Тверская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 25 NOV 1775 TO 14 JAN 1929
+- id: L124
+  name: Терская губерния
+  names:
+  - name: Терская область
+    period: FROM @#DJULIAN@ 08 FEB 1860 TO 20 JAN 1921
+  - name: Терская губерния
+    period: FROM 04 APR 1921 TO 02 JUN 1924
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 08 FEB 1860 TO 20 JAN 1921
+  - name: Российская Империя
+    id: L3
+    period: FROM 04 APR 1921 TO 02 JUN 1924
+- id: L125
+  name: Тифлисская губерния
+  names:
+  - name: Тифлисская губерния
+    period: FROM @#DJULIAN@ 14 DEC 1846 TO @#DJULIAN@ 1917
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 14 DEC 1846 TO @#DJULIAN@ 1917
+- id: L126
+  name: Тобольская губерния
+  names:
+  - name: Тобольское наместничество
+    period: FROM @#DJULIAN@ 19 JAN 1782 TO @#DJULIAN@ 12 DEC 1796
+  - name: Тобольская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 02 MAR 1920
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 19 JAN 1782 TO 02 MAR 1920
+- id: L127
+  name: Томская губерния
+  names:
+  - name: Томская губерния
+    period: FROM @#DJULIAN@ 26 FEB 1804 TO 25 MAY 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 26 FEB 1804 TO 25 MAY 1925
+- id: L227
+  name: Тульская губерния
+  names:
+  - name: Тульское наместничество
+    period: FROM @#DJULIAN@ 19 SEP 1777 TO @#DJULIAN@ 12 DEC 1796
+  - name: Тульская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 OCT 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 19 SEP 1777 TO 01 OCT 1929
+- id: L232
+  name: Тургайская область
+  names:
+  - name: Тургайская область
+    period: FROM @#DJULIAN@ 21 OCT 1868 TO 26 AUG 1920
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 21 OCT 1868 TO 26 AUG 1920
+- id: L24
+  name: Турку-Пориская губерния
+  names:
+  - name: Або-Бьёрнеборгская губерния
+    period: FROM @#DJULIAN@ 1634
+  - name: Турку-Пориская губерния
+    period: FROM @#DJULIAN@ 07 DEC 1917 TO 01 SEP 1997
+  parents:
+  - name: Королевство Швеция
+    id: L231
+    period: FROM @#DJULIAN@ - 17 SEP 1809
+  - name: Финляндская Республика
+    id: L13
+    period: FROM @#DJULIAN@ 17 SEP 1809 TO 01 SEP 1997
+- id: L233
+  name: Уральская область
+  names:
+  - name: Уральская область
+    period: FROM @#DJULIAN@ 21 OCT 1868 TO 26 AUG 1920
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 21 OCT 1868 TO 26 AUG 1920
+- id: L5
+  name: Уральская область
+  names:
+  - name: Уральская область
+    period: FROM 03 NOV 1923 TO 16 JAN 1934
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM 03 NOV 1923 TO 16 JAN 1934
+- id: L90
+  name: Уусимааская губерния
+  names:
+  - name: Нюландская губерния
+    period: FROM @#DJULIAN@ 1831 TO @#DJULIAN@ 06 DEC 1917
+  - name: Уусимааская губерния
+    period: FROM @#DJULIAN@ 07 DEC 1917 TO 01 SEP 1997
+  parents:
+  - name: Королевство Швеция
+    id: L231
+    period: FROM @#DJULIAN@ - 17 SEP 1809
+  - name: Великое Княжество Финляндское
+    id: L13
+    period: FROM @#DJULIAN@ 17 SEP 1809 TO @#DJULIAN@ 06 DEC 1917
+  - name: Финляндская Республика
+    id: L13
+    period: FROM @#DJULIAN@ 06 DEC 1917 TO 01 SEP 1997
+- id: L234
+  name: Ферганская область
+  names:
+  - name: Ферганская область
+    period: FROM @#DJULIAN@ 19 FEB 1876 TO 1924
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 19 FEB 1876 TO 1924
+- id: L129
+  name: Финляндская губерния
+  names:
+  - name: Финляндская губерния
+    period: FROM @#DJULIAN@ 1804 TO @#DJULIAN@ 1811
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1804 TO @#DJULIAN@ 1811
+- id: L130
+  name: Харьковская губерния
+  names:
+  - name: Харьковское наместничество
+    period: FROM @#DJULIAN@ 29 SEP 1780 TO @#DJULIAN@ 12 DEC 1796
+  - name: Харьковская губерния
+    period: FROM @#DJULIAN@ 05 DEC 1835 TO 01 AUG 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 29 SEP 1780 TO @#DJULIAN@ 12 DEC 1796
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 05 DEC 1835 TO 01 AUG 1925
+- id: L131
+  name: Херсонская губерния
+  names:
+  - name: Херсонская губерния
+    period: FROM @#DJULIAN@ 15 MAY 1803 TO 16 APR 1920
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 15 MAY 1803 TO 16 APR 1920
+- id: L132
+  name: Холмская губерния
+  names:
+  - name: Холмская губерния
+    period: FROM @#DJULIAN@ 23 JUN 1912 TO 1918
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 23 JUN 1912 TO 1918
+- id: L222
+  name: Хямеская губерния
+  names:
+  - name: Тавастгусская губерния
+    period: FROM @#DJULIAN@ 1831 TO @#DJULIAN@ 1917
+  - name: Хямеская губерния
+    period: FROM @#DJULIAN@ 07 DEC 1917 TO 01 SEP 1997
+  parents:
+  - name: Королевство Швеция
+    id: L231
+    period: FROM @#DJULIAN@ - 17 SEP 1809
+  - name: Финляндская Республика
+    id: L13
+    period: FROM @#DJULIAN@ 17 SEP 1809 TO 01 SEP 1997
+
+- id: L11
+  name: Челябинская область
+  names:
+  - name: Челябинская область
+    period: FROM 17 JAN 1934
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM 26 DEC 1991
+- id: L133
+  name: Черниговская губерния
+  names:
+  - name: Черниговское наместничество
+    period: FROM @#DJULIAN@ 16 SEP 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Черниговская губерния
+    period: FROM @#DJULIAN@ 27 FEB 1802 TO 01 AUG 1925
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 16 SEP 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 27 FEB 1802 TO 01 AUG 1925
+- id: L155
+  name: Черновицкая губерния
+  names:
+  - name: Черновицкая губерния
+    period: FROM @#DJULIAN@ 1914 TO @#DJULIAN@ 1917
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1914 TO @#DJULIAN@ 1917
+- id: L134
+  name: Черноморская губерния
+  names:
+  - name: Черноморская губерния
+    period: FROM @#DJULIAN@ 23 MAY 1896 TO 1918
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 23 MAY 1896 TO 1918
+
+- id: L136
+  name: Эриванская губерния
+  names:
+  - name: Эриванская губерния
+    period: FROM @#DJULIAN@ 09 JUN 1849 TO @#DJULIAN@ 1917
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 09 JUN 1849 TO @#DJULIAN@ 1917
+- id: L138
+  name: Ярославская губерния
+  names:
+  - name: Ярославское наместничество
+    period: FROM @#DJULIAN@ 28 FEB 1777 TO @#DJULIAN@ 12 DEC 1796
+  - name: Ярославская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 28 FEB 1777 TO 14 JAN 1929
+- id: L235
+  name: Якутская область
+  names:
+  - name: Якутская область
+    period: FROM @#DJULIAN@ 22 APR 1805 TO 1920
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 22 APR 1805 TO 1920
+

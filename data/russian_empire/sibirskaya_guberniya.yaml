@@ -1,0 +1,234 @@
+- id: L15
+  name: Сибирская губерния
+  names:
+  - name: Сибирская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L288
+  name: Тобольский уезд
+  names:
+  - name: Тобольский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L289
+  name: Тюменский уезд
+  names:
+  - name: Тюменский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L290
+  name: Туринский уезд
+  names:
+  - name: Туринский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L291
+  name: Верхотурский уезд
+  names:
+  - name: Верхотурский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L292
+  name: Тарский уезд
+  names:
+  - name: Тарский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L293
+  name: Сургутский уезд
+  names:
+  - name: Сургутский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L294
+  name: Березовский уезд
+  names:
+  - name: Березовский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L295
+  name: Пелымский уезд
+  names:
+  - name: Пелымский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L296
+  name: Нарымский уезд
+  names:
+  - name: Нарымский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L297
+  name: Мангазейский уезд
+  names:
+  - name: Мангазейский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L298
+  name: Енисейский уезд
+  names:
+  - name: Енисейский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L299
+  name: Красноярский уезд
+  names:
+  - name: Красноярский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L300
+  name: Томский уезд
+  names:
+  - name: Томский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L301
+  name: Кузнецкий уезд
+  names:
+  - name: Кузнецкий уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L302
+  name: Кетский уезд
+  names:
+  - name: Кетский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L303
+  name: Иркутский уезд
+  names:
+  - name: Иркутский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+- id: L304
+  name: Нерчинский уезд
+  names:
+  - name: Нерчинский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+- id: L305
+  name: Якутский уезд
+  names:
+  - name: Якутский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+- id: L306
+  name: Охотский уезд
+  names:
+  - name: Охотский уезд
+    period: FROM @#DJULIAN@ 1736 TO @#DJULIAN@ 1764
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1736 TO @#DJULIAN@ 1764
+- id: L307
+  name: Соликамский уезд
+  names:
+  - name: Соликамский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+- id: L308
+  name: Чердынский уезд
+  names:
+  - name: Чердынский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+- id: L309
+  name: Кунгурский уезд
+  names:
+  - name: Кунгурский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+- id: L310
+  name: Пермский уезд
+  names:
+  - name: Пермский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+- id: L311
+  name: Вятский уезд
+  names:
+  - name: Вятский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+- id: L312
+  name: Яренский уезд
+  names:
+  - name: Яренский уезд
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1719
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1719
