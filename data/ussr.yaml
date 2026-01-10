@@ -47,9 +47,9 @@
   name: Пермская область
   names:
   - name: Пермская область
-    period: FROM 03 OCT 1938 TO 08 MAR 1940
+    period: FROM 03 OCT 1938 TO 07 MAR 1940
   - name: Молотовская область
-    period: FROM 08 MAR 1940 TO 02 OCT 1957
+    period: FROM 08 MAR 1940 TO 01 OCT 1957
   - name: Пермская область
     period: FROM 02 OCT 1957 TO 01 DEC 2005
   parents:
@@ -74,3 +74,12 @@
   - name: РСФСР
     id: L3
     period: FROM 17 JAN 1934
+- id: L340
+  name: Челябинская губерния
+  names:
+  - name: Челябинская губерния
+    period: FROM 27 AUG 1919 TO 03 NOV 1923
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM 27 AUG 1919 TO 03 NOV 1923

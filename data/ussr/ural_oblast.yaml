@@ -1,4 +1,4 @@
-- id: L314
+- id: L5
   name: Уральская область
   names:
   - name: Уральская область
@@ -14,7 +14,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L317
   name: Свердловский округ
@@ -25,7 +25,7 @@
     period: FROM 1924 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L318
   name: Челябинский округ
@@ -34,7 +34,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L319
   name: Тюменский округ
@@ -43,7 +43,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L320
   name: Тобольский округ
@@ -52,7 +52,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L321
   name: Тагильский округ
@@ -61,7 +61,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L322
   name: Златоустовский округ
@@ -70,7 +70,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L323
   name: Курганский округ
@@ -79,7 +79,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L324
   name: Троицкий округ
@@ -88,7 +88,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L325
   name: Шадринский округ
@@ -97,7 +97,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L326
   name: Ирбитский округ
@@ -106,7 +106,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L327
   name: Ишимский округ
@@ -115,7 +115,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L328
   name: Сарапульский округ
@@ -124,7 +124,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L329
   name: Кунгурский округ
@@ -133,7 +133,7 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L330
   name: Верхне-Камский округ
@@ -142,24 +142,24 @@
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
   parents:
   - name: Уральская область
-    id: L314
+    id: L5
     period: FROM @#DJULIAN@ 03 NOV 1923 TO 1930
 - id: L331
   name: Коми-Пермяцкий округ
   names:
   - name: Коми-Пермяцкий национальный округ
-    period: FROM 26 FEB 1925 TO 07 OCT 1977
+    period: FROM 26 FEB 1925 TO 06 OCT 1977
   - name: Коми-Пермяцкий автономный округ
     period: FROM 07 OCT 1977 TO 01 DEC 2005
   - name: Коми-Пермяцкий округ
     period: FROM 01 DEC 2005
   parents:
   - name: Уральская область
-    id: L314
-    period: FROM 26 FEB 1925 TO 17 JAN 1934
+    id: L5
+    period: FROM 26 FEB 1925 TO 16 JAN 1934
   - name: Свердловская область
     id: L332
-    period: FROM 17 JAN 1934 TO 03 OCT 1938
+    period: FROM 17 JAN 1934 TO 02 OCT 1938
   - name: Пермская область
     id: L336
     period: FROM 03 OCT 1938 TO 01 DEC 2005

@@ -167,7 +167,7 @@
   name: Грузия
   names:
   - name: Грузинская Демократическая Республика
-    period: FROM 26 MAY 1918 TO 25 FEB 1921
+    period: FROM 26 MAY 1918 TO 24 FEB 1921
   - name: Грузинская Советская Социалистическая Республика
     period: FROM 25 FEB 1921 TO 09 APR 1991
   - name: Республика Грузия
@@ -183,7 +183,7 @@
   name: Армения
   names:
   - name: Республика Армения
-    period: FROM 28 MAY 1918 TO 29 NOV 1920
+    period: FROM 28 MAY 1918 TO 28 NOV 1920
   - name: Армянская Советская Социалистическая Республика
     period: FROM 29 NOV 1920 TO 23 SEP 1991
   - name: Республика Армения
@@ -199,7 +199,7 @@
   name: Азербайджан
   names:
   - name: Азербайджанская Демократическая Республика
-    period: FROM 28 MAY 1918 TO 28 APR 1920
+    period: FROM 28 MAY 1918 TO 27 APR 1920
   - name: Азербайджанская Советская Социалистическая Республика
     period: FROM 28 APR 1920 TO 30 AUG 1991
   - name: Республика Азербайджан

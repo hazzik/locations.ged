@@ -4,7 +4,7 @@
   - name: Ревельская губерния
     period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 02 JUL 1783
   - name: Ревельское наместничество
-    period: FROM @#DJULIAN@ 03 JUL 1783 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 03 JUL 1783 TO @#DJULIAN@ 11 DEC 1796
   - name: Эстляндская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 12 APR 1917
   parents:

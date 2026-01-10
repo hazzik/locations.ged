@@ -198,7 +198,7 @@
   parents:
   - name: Российская Империя
     id: L3
-    period: FROM @#DJULIAN@ 14 JAN 1744 TO @#DJULIAN@ 23 DEC 1811
+    period: FROM @#DJULIAN@ 14 JAN 1744 TO @#DJULIAN@ 22 DEC 1811
   - name: Финляндская Республика
     id: L13
     period: FROM @#DJULIAN@ 23 DEC 1811 TO 19 SEP 1944
@@ -217,7 +217,7 @@
   name: Ганджинская губерния
   names:
   - name: Елизаветпольская губерния
-    period: FROM @#DJULIAN@ 09 DEC 1867 TO 30 JUL 1918
+    period: FROM @#DJULIAN@ 09 DEC 1867 TO 29 JUL 1918
   - name: Ганджинская губерния
     period: FROM 30 JUL 1918 TO 28 APR 1920
   parents:
@@ -352,7 +352,7 @@
   name: Келецкая губерния
   names:
   - name: Краковская губерния
-    period: FROM @#DJULIAN@ 23 FEB 1837 TO @#DJULIAN@ 15 JUN 1841
+    period: FROM @#DJULIAN@ 23 FEB 1837 TO @#DJULIAN@ 14 JUN 1841
   - name: Келецкая губерния
     period: FROM @#DJULIAN@ 15 JUN 1841 TO @#DJULIAN@ 09 AUG 1844
   parents:
@@ -390,7 +390,7 @@
   name: Колыванское наместничество
   names:
   - name: Колыванская область
-    period: FROM @#DJULIAN@ 01 MAY 1779 TO @#DJULIAN@ 06 MAR 1783
+    period: FROM @#DJULIAN@ 01 MAY 1779 TO @#DJULIAN@ 05 MAR 1783
   - name: Колыванское наместничество
     period: FROM @#DJULIAN@ 06 MAR 1783 TO @#DJULIAN@ 11 DEC 1796
   parents:
@@ -492,9 +492,9 @@
   name: Ленинградская губерния
   names:
   - name: Санкт-Петербургская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 18 AUG 1914
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 17 AUG 1914
   - name: Петроградская губерния
-    period: FROM @#DJULIAN@ 18 AUG 1914 TO 26 JAN 1924
+    period: FROM @#DJULIAN@ 18 AUG 1914 TO 25 JAN 1924
   - name: Ленинградская губерния
     period: FROM 26 JAN 1924 TO 01 AUG 1927
   parents:
@@ -514,7 +514,7 @@
   name: Лифляндская губерния
   names:
   - name: Рижская губерния
-    period: FROM @#DJULIAN@ 17 JUL 1713 TO @#DJULIAN@ 03 JUL 1783
+    period: FROM @#DJULIAN@ 17 JUL 1713 TO @#DJULIAN@ 02 JUL 1783
   - name: Рижское наместничество
     period: FROM @#DJULIAN@ 03 JUL 1783 TO @#DJULIAN@ 11 DEC 1796
   - name: Лифляндская губерния
@@ -586,9 +586,9 @@
   name: Минская губерния
   names:
   - name: Минская губерния
-    period: FROM @#DJULIAN@ 23 APR 1793 TO @#DJULIAN@ 03 MAY 1795
+    period: FROM @#DJULIAN@ 23 APR 1793 TO @#DJULIAN@ 02 MAY 1795
   - name: Минское наместничество
-    period: FROM @#DJULIAN@ 03 MAY 1795 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 03 MAY 1795 TO @#DJULIAN@ 11 DEC 1796
   - name: Минская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 18 MAR 1921
   parents:
@@ -599,7 +599,7 @@
   name: Могилёвская губерния
   names:
   - name: Могилёвская губерния
-    period: FROM @#DJULIAN@ 28 MAY 1772 TO @#DJULIAN@ 22 MAR 1777
+    period: FROM @#DJULIAN@ 28 MAY 1772 TO @#DJULIAN@ 21 MAR 1777
   - name: Могилёвское наместничество
     period: FROM @#DJULIAN@ 22 MAR 1777 TO @#DJULIAN@ 12 DEC 1796
   - name: Могилёвская губерния
@@ -615,9 +615,9 @@
   name: Московская губерния
   names:
   - name: Московская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 05 OCT 1781
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 04 OCT 1781
   - name: Московское наместничество
-    period: FROM @#DJULIAN@ 05 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 05 OCT 1781 TO @#DJULIAN@ 11 DEC 1796
   - name: Московская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
   parents:
@@ -630,9 +630,9 @@
   - name: Нижегородская губерния
     period: FROM @#DJULIAN@ 26 JAN 1714 TO @#DJULIAN@ 22 NOV 1717
   - name: Нижегородская губерния
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 05 SEP 1779
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 04 SEP 1779
   - name: Нижегородское наместничество
-    period: FROM @#DJULIAN@ 05 SEP 1779 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 05 SEP 1779 TO @#DJULIAN@ 11 DEC 1796
   - name: Нижегородская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
   parents:
@@ -660,9 +660,9 @@
   name: Новгородская губерния
   names:
   - name: Новгородская губерния
-    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 24 AUG 1776
+    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 23 AUG 1776
   - name: Новгородское наместничество
-    period: FROM @#DJULIAN@ 24 AUG 1776 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 24 AUG 1776 TO @#DJULIAN@ 11 DEC 1796
   - name: Новгородская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 AUG 1927
   parents:
@@ -705,7 +705,7 @@
   name: Орловская губерния
   names:
   - name: Орловское наместничество
-    period: FROM @#DJULIAN@ 28 FEB 1778 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 28 FEB 1778 TO @#DJULIAN@ 11 DEC 1796
   - name: Орловская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 16 JUL 1928
   parents:
@@ -789,7 +789,7 @@
   name: Подольская губерния
   names:
   - name: Подольское наместничество
-    period: FROM @#DJULIAN@ 05 JUL 1795 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 05 JUL 1795 TO @#DJULIAN@ 11 DEC 1796
   - name: Подольская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 AUG 1925
   parents:
@@ -818,9 +818,9 @@
   name: Псковская губерния
   names:
   - name: Псковская губерния
-    period: FROM @#DJULIAN@ 28 MAY 1772 TO @#DJULIAN@ 24 AUG 1777
+    period: FROM @#DJULIAN@ 28 MAY 1772 TO @#DJULIAN@ 23 AUG 1777
   - name: Псковское наместничество
-    period: FROM @#DJULIAN@ 24 AUG 1777 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 24 AUG 1777 TO @#DJULIAN@ 11 DEC 1796
   - name: Псковская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 AUG 1927
   parents:
@@ -841,7 +841,7 @@
   name: Рязанская губерния
   names:
   - name: Рязанское наместничество
-    period: FROM @#DJULIAN@ 28 FEB 1778 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 28 FEB 1778 TO @#DJULIAN@ 11 DEC 1796
   - name: Рязанская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 OCT 1929
   parents:
@@ -870,7 +870,7 @@
   name: Саратовская губерния
   names:
   - name: Саратовское наместничество
-    period: FROM @#DJULIAN@ 11 JAN 1780 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 11 JAN 1780 TO @#DJULIAN@ 11 DEC 1796
   - name: Саратовская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 21 MAY 1928
   parents:
@@ -890,7 +890,7 @@
   name: Симбирская губерния
   names:
   - name: Симбирское наместничество
-    period: FROM @#DJULIAN@ 15 SEP 1780 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 15 SEP 1780 TO @#DJULIAN@ 11 DEC 1796
   - name: Симбирская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
   parents:
@@ -917,9 +917,9 @@
   - name: Смоленская губерния
     period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 17 JUL 1713
   - name: Смоленская губерния
-    period: FROM @#DJULIAN@ 1726 TO @#DJULIAN@ 23 DEC 1775
+    period: FROM @#DJULIAN@ 1726 TO @#DJULIAN@ 22 DEC 1775
   - name: Смоленское наместничество
-    period: FROM @#DJULIAN@ 23 DEC 1775 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 23 DEC 1775 TO @#DJULIAN@ 11 DEC 1796
   - name: Смоленская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
   parents:
@@ -953,7 +953,7 @@
   name: Тамбовская губерния
   names:
   - name: Тамбовское наместничество
-    period: FROM @#DJULIAN@ 16 SEP 1779 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 16 SEP 1779 TO @#DJULIAN@ 11 DEC 1796
   - name: Тамбовская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
   parents:
@@ -973,7 +973,7 @@
   name: Тверская губерния
   names:
   - name: Тверское наместничество
-    period: FROM @#DJULIAN@ 25 NOV 1775 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 25 NOV 1775 TO @#DJULIAN@ 11 DEC 1796
   - name: Тверская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
   parents:
@@ -1007,7 +1007,7 @@
   name: Тобольская губерния
   names:
   - name: Тобольское наместничество
-    period: FROM @#DJULIAN@ 19 JAN 1782 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 19 JAN 1782 TO @#DJULIAN@ 11 DEC 1796
   - name: Тобольская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 02 MAR 1920
   parents:
@@ -1027,7 +1027,7 @@
   name: Тульская губерния
   names:
   - name: Тульское наместничество
-    period: FROM @#DJULIAN@ 19 SEP 1777 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 19 SEP 1777 TO @#DJULIAN@ 11 DEC 1796
   - name: Тульская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 01 OCT 1929
   parents:
@@ -1066,15 +1066,6 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 21 OCT 1868 TO 26 AUG 1920
-- id: L5
-  name: Уральская область
-  names:
-  - name: Уральская область
-    period: FROM 03 NOV 1923 TO 16 JAN 1934
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM 03 NOV 1923 TO 16 JAN 1934
 - id: L90
   name: Уусимааская губерния
   names:
@@ -1088,7 +1079,7 @@
     period: FROM @#DJULIAN@ - 17 SEP 1809
   - name: Великое Княжество Финляндское
     id: L13
-    period: FROM @#DJULIAN@ 17 SEP 1809 TO @#DJULIAN@ 06 DEC 1917
+    period: FROM @#DJULIAN@ 17 SEP 1809 TO @#DJULIAN@ 05 DEC 1917
   - name: Финляндская Республика
     id: L13
     period: FROM @#DJULIAN@ 06 DEC 1917 TO 01 SEP 1997
@@ -1203,7 +1194,7 @@
   name: Ярославская губерния
   names:
   - name: Ярославское наместничество
-    period: FROM @#DJULIAN@ 28 FEB 1777 TO @#DJULIAN@ 12 DEC 1796
+    period: FROM @#DJULIAN@ 28 FEB 1777 TO @#DJULIAN@ 11 DEC 1796
   - name: Ярославская губерния
     period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
   parents:

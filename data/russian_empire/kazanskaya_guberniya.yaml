@@ -2,7 +2,7 @@
   name: Казанская губерния
   names:
   - name: Казанская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 SEP 1781
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 27 SEP 1781
   - name: Казанское наместничество
     period: FROM @#DJULIAN@ 28 SEP 1781 TO @#DJULIAN@ 11 DEC 1796
   - name: Казанская губерния
@@ -19,7 +19,7 @@
   parents:
   - name: Россия
     id: L3
-    period: FROM @#DJULIAN@ 1552 TO @#DJULIAN@ 18 DEC 1708
+    period: FROM @#DJULIAN@ 1552 TO @#DJULIAN@ 17 DEC 1708
   - name: Казанская губерния
     id: L19
     period: FROM @#DJULIAN@ 18 DEC 1708 TO 27 MAY 1920
@@ -58,7 +58,7 @@
   parents:
   - name: Россия
     id: L3
-    period: FROM @#DJULIAN@ 1568 TO @#DJULIAN@ 18 DEC 1708
+    period: FROM @#DJULIAN@ 1568 TO @#DJULIAN@ 17 DEC 1708
   - name: Казанская губерния
     id: L19
     period: FROM @#DJULIAN@ 18 DEC 1708 TO 27 MAY 1920
@@ -103,7 +103,7 @@
   parents:
   - name: Россия
     id: L3
-    period: FROM @#DJULIAN@ 1589 TO @#DJULIAN@ 18 DEC 1708
+    period: FROM @#DJULIAN@ 1589 TO @#DJULIAN@ 17 DEC 1708
   - name: Казанская губерния
     id: L19
     period: FROM @#DJULIAN@ 18 DEC 1708 TO 27 MAY 1920
