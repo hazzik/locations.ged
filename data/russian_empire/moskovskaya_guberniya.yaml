@@ -15,98 +15,624 @@
   name: Тульская провинция
   names:
   - name: Тульская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L369
   name: Московская провинция
   names:
   - name: Московская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L370
   name: Владимирская провинция
   names:
   - name: Владимирская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L371
   name: Переслав-Залесская провинция
   names:
   - name: Переслав-Залесская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L372
   name: Костромская провинция
   names:
   - name: Костромская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L373
   name: Юрьево-Польская провинция
   names:
   - name: Юрьево-Польская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L374
   name: Суздальская провинция
   names:
   - name: Суздальская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L375
   name: Калужская провинция
   names:
   - name: Калужская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L378
-  name: Переславль-Рязанская провинция
+  name: Переяслав-Рязанская провинция
   names:
-  - name: Переславль-Рязанская провинция
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+  - name: Переяслав-Рязанская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
 - id: L376
   name: Углицкая провинция
   names:
   - name: Углицкая провинция
-    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 07 NOV 1775
   parents:
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 07 NOV 1775
 - id: L377
   name: Ярославская провинция
   names:
   - name: Ярославская провинция
-    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 27 FEB 1777
   parents:
+  - name: Санкт-Петербургская губерния
+    id: L109
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 28 APR 1727
   - name: Московская губерния
     id: L83
-    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 01 NOV 1775
+    period: FROM @#DJULIAN@ 29 APR 1727 TO @#DJULIAN@ 27 FEB 1777
+
+- id: L379
+  name: Московский уезд
+  names:
+  - name: Московский уезд
+    period: FROM @#DJULIAN@ 1456 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1456 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO 14 JAN 1929
+- id: L380
+  name: Дмитровский уезд
+  names:
+  - name: Дмитровский уезд
+    period: FROM @#DJULIAN@ 1569 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1569 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO 14 JAN 1929
+- id: L388
+  name: Владимирский уезд
+  names:
+  - name: Владимирский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L370
+    name: Владимирская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO @#DJULIAN@ 31 AUG 1778
+- id: L417
+  name: Суздальский уезд
+  names:
+  - name: Суздальский уезд
+    period: FROM @#DJULIAN@ 1478 TO 20 FEB 1924
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L374
+    name: Суздальская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO @#DJULIAN@ 31 AUG 1778
+  - id: L42
+    name: Владимирская губерния
+    period: FROM @#DJULIAN@ 01 SEP 1778 TO 20 FEB 1924
+- id: L418
+  name: Переславль-Залесский уезд
+  names:
+  - name: Переславль-Залесский уезд
+    period: FROM @#DJULIAN@ 1302 TO 10 JUN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1302 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L371
+    name: Переслав-Залесская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO @#DJULIAN@ 31 AUG 1778
+  - id: L42
+    name: Владимирская губерния
+    period: FROM @#DJULIAN@ 01 SEP 1778 TO 14 JAN 1929
+- id: L419
+  name: Ростовский уезд
+  names:
+  - name: Ростовский уезд
+    period: FROM @#DJULIAN@ 1474 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1474 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L371
+    name: Переслав-Залесская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO @#DJULIAN@ 27 FEB 1777
+  - id: L138
+    name: Ярославская губерния
+    period: FROM @#DJULIAN@ 28 FEB 1777 TO 14 JAN 1929
+- id: L407
+  name: Ярославский уезд
+  names:
+  - name: Ярославский уезд
+    period: FROM @#DJULIAN@ 1463 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1463 TO @#DJULIAN@ 17 DEC 1708
+  - id: L109
+    name: Санкт-Петербургская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L377
+    name: Ярославская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 27 FEB 1777
+  - id: L138
+    name: Ярославская губерния
+    period: FROM @#DJULIAN@ 28 FEB 1777 TO 14 JAN 1929
+- id: L406
+  name: Костромской уезд
+  names:
+  - name: Костромской уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L372
+    name: Костромская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L66
+    name: Костромская губерния
+    period: FROM @#DJULIAN@ 06 MAR 1778 TO 14 JAN 1929
+- id: L403
+  name: Звенигородский уезд
+  names:
+  - name: Звенигородский уезд
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO 14 JAN 1929
+  parents:
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO 14 JAN 1929
+- id: L423
+  name: Волоколамский уезд
+  names:
+  - name: Волоколамский уезд
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO 14 JAN 1929
+  parents:
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO 14 JAN 1929
+- id: L402
+  name: Можайский уезд
+  names:
+  - name: Можайский уезд
+    period: FROM @#DJULIAN@ 1463 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1463 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO 14 JAN 1929
+- id: L424
+  name: Коломенский уезд
+  names:
+  - name: Коломенский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO 14 JAN 1929
+- id: L425
+  name: Серпуховский уезд
+  names:
+  - name: Серпуховский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO 14 JAN 1929
+- id: L426
+  name: Боровский уезд
+  names:
+  - name: Боровский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 23 AUG 1776
+  - id: L60
+    name: Калужская губерния
+    period: FROM @#DJULIAN@ 24 AUG 1776 TO 14 JAN 1929
+- id: L427
+  name: Верейский уезд
+  names:
+  - name: Верейский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO 14 JAN 1929
+- id: L428
+  name: Рузский уезд
+  names:
+  - name: Рузский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO 14 JAN 1929
+- id: L429
+  name: Клинский уезд
+  names:
+  - name: Клинский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L369
+    name: Московская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 07 NOV 1775
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 02 NOV 1775 TO 14 JAN 1929
+- id: L430
+  name: Юрьев-Польский уезд
+  names:
+  - name: Юрьев-Польский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L373
+    name: Юрьев-Польская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 31 AUG 1778
+  - id: L42
+    name: Владимирская губерния
+    period: FROM @#DJULIAN@ 01 SEP 1778 TO 14 JAN 1929
+- id: L390
+  name: Тульский уезд
+  names:
+  - name: Тульский уезд
+    period: FROM @#DJULIAN@ 1503 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1503 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L368
+    name: Тульская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 18 SEP 1777
+  - id: L227
+    name: Тульская губерния
+    period: FROM @#DJULIAN@ 19 SEP 1777 TO 14 JAN 1929
+- id: L449
+  name: Каширский уезд
+  names:
+  - name: Каширский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L368
+    name: Тульская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 18 SEP 1777
+  - id: L227
+    name: Тульская губерния
+    period: FROM @#DJULIAN@ 19 SEP 1777 TO 09 MAY 1923
+  - id: L83
+    name: Московская губерния
+    period: FROM 10 MAY 1923 TO 14 JAN 1929
+- id: L391
+  name: Калужский уезд
+  names:
+  - name: Калужский уезд
+    period: FROM @#DJULIAN@ 1503 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1503 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L375
+    name: Калужская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 23 AUG 1776
+  - id: L60
+    name: Калужская губерния
+    period: FROM @#DJULIAN@ 24 AUG 1776 TO 14 JAN 1929
+- id: L450
+  name: Алексинский уезд
+  names:
+  - name: Алексинский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L368
+    name: Тульская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 18 SEP 1777
+  - id: L227
+    name: Тульская губерния
+    period: FROM @#DJULIAN@ 19 SEP 1777 TO 01 DEC 1925
+- id: L451
+  name: Тарусский уезд
+  names:
+  - name: Тарусский уезд
+    period: FROM @#DJULIAN@ 1478 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1478 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L375
+    name: Калужская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 23 AUG 1776
+  - id: L60
+    name: Калужская губерния
+    period: FROM @#DJULIAN@ 24 AUG 1776 TO 1927
+- id: L452
+  name: Лихвинский уезд
+  names:
+  - name: Лихвинский уезд
+    period: FROM @#DJULIAN@ 1503 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1503 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L375
+    name: Калужская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 23 AUG 1776
+  - id: L60
+    name: Калужская губерния
+    period: FROM @#DJULIAN@ 24 AUG 1776 TO 14 JAN 1929
+- id: L453
+  name: Одоевский уезд
+  names:
+  - name: Одоевский уезд
+    period: FROM @#DJULIAN@ 1494 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1494 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L375
+    name: Калужская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 18 SEP 1777
+  - id: L227
+    name: Тульская губерния
+    period: FROM @#DJULIAN@ 19 SEP 1777 TO 1924
+- id: L393
+  name: Рязанский уезд
+  names:
+  - name: Рязанский уезд
+    period: FROM @#DJULIAN@ 1521 TO 14 JAN 1929
+  parents:
+  - id: L3
+    name: Русское царство
+    period: FROM @#DJULIAN@ 1521 TO @#DJULIAN@ 17 DEC 1708
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - id: L378
+    name: Переславль-Рязанская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 27 FEB 1778
+  - id: L207
+    name: Рязанская губерния
+    period: FROM @#DJULIAN@ 28 FEB 1778 TO 14 JAN 1929
+- id: L454
+  name: Подольский уезд
+  names:
+  - name: Подольский уезд
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Подольский уезд
+    period: FROM @#DJULIAN@ 1802 TO 14 JAN 1929
+  parents:
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 1802 TO 14 JAN 1929
+- id: L455
+  name: Никитский уезд
+  names:
+  - name: Никитский уезд
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  parents:
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+- id: L456
+  name: Богородский уезд
+  names:
+  - name: Богородский уезд
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Богородский уезд
+    period: FROM @#DJULIAN@ 1802 TO 14 JAN 1929
+  parents:
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 1802 TO 14 JAN 1929
+- id: L457
+  name: Воскресенский уезд
+  names:
+  - name: Воскресенский уезд
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  parents:
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+- id: L458
+  name: Бронницкий уезд
+  names:
+  - name: Бронницкий уезд
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  - name: Бронницкий уезд
+    period: FROM @#DJULIAN@ 1802 TO 14 JAN 1929
+  parents:
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 08 OCT 1781 TO @#DJULIAN@ 12 DEC 1796
+  - id: L83
+    name: Московская губерния
+    period: FROM @#DJULIAN@ 1802 TO 14 JAN 1929
