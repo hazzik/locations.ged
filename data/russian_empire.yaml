@@ -16,6 +16,24 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 1775 TO @#DJULIAN@ 1783
+- id: L350
+  name: Азовская губерния (1708–1711)
+  names:
+  - name: Азовская губерния (1708–1711)
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 1711
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 1711
+- id: L351
+  name: Азовская губерния (1725–1775)
+  names:
+  - name: Азовская губерния (1725–1775)
+    period: FROM @#DJULIAN@ 1725 TO @#DJULIAN@ 13 FEB 1775
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1725 TO @#DJULIAN@ 13 FEB 1775
 - id: L30
   name: Алтайская губерния
   names:
@@ -255,7 +273,7 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 1801 TO @#DJULIAN@ 1840
-- id: L237
+- id: L352
   name: Дагестанская область
   names:
   - name: Дагестанская область
@@ -423,7 +441,7 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 06 MAR 1778 TO 14 JAN 1929
-- id: L236
+- id: L353
   name: Кубанская область
   names:
   - name: Кубанская область
@@ -479,6 +497,8 @@
 - id: L70
   name: Курская губерния
   names:
+  - name: Белгородская губерния
+    period: FROM @#DJULIAN@ 01 MAR 1727 TO @#DJULIAN@ 22 MAY 1779
   - name: Курское наместничество
     period: FROM @#DJULIAN@ 23 MAY 1779 TO @#DJULIAN@ 11 DEC 1796
   - name: Курская губерния
@@ -486,7 +506,7 @@
   parents:
   - name: Российская Империя
     id: L3
-    period: FROM @#DJULIAN@ 23 MAY 1779
+    period: FROM @#DJULIAN@ 01 MAR 1727
 - id: L71
   name: Кутаисская губерния
   names:
@@ -508,8 +528,10 @@
 - id: L109
   name: Ленинградская губерния
   names:
+  - name: Ингерманландская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 09 JUN 1710
   - name: Санкт-Петербургская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 17 AUG 1914
+    period: FROM @#DJULIAN@ 10 JUN 1710 TO @#DJULIAN@ 17 AUG 1914
   - name: Петроградская губерния
     period: FROM @#DJULIAN@ 18 AUG 1914 TO 25 JAN 1924
   - name: Ленинградская губерния
@@ -1051,7 +1073,7 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 19 SEP 1777 TO 01 OCT 1929
-- id: L232
+- id: L357
   name: Тургайская область
   names:
   - name: Тургайская область
@@ -1074,7 +1096,7 @@
   - name: Финляндская Республика
     id: L13
     period: FROM @#DJULIAN@ 17 SEP 1809 TO 01 SEP 1997
-- id: L233
+- id: L356
   name: Уральская область
   names:
   - name: Уральская область
@@ -1100,7 +1122,7 @@
   - name: Финляндская Республика
     id: L13
     period: FROM @#DJULIAN@ 06 DEC 1917 TO 01 SEP 1997
-- id: L234
+- id: L355
   name: Ферганская область
   names:
   - name: Ферганская область
@@ -1218,7 +1240,7 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 28 FEB 1777 TO 14 JAN 1929
-- id: L235
+- id: L354
   name: Якутская область
   names:
   - name: Якутская область
