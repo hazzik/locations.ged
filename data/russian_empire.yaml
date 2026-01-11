@@ -16,24 +16,6 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 1775 TO @#DJULIAN@ 1783
-- id: L350
-  name: Азовская губерния (1708–1711)
-  names:
-  - name: Азовская губерния (1708–1711)
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 1711
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 1711
-- id: L351
-  name: Азовская губерния (1725–1775)
-  names:
-  - name: Азовская губерния (1725–1775)
-    period: FROM @#DJULIAN@ 1725 TO @#DJULIAN@ 13 FEB 1775
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM @#DJULIAN@ 1725 TO @#DJULIAN@ 13 FEB 1775
 - id: L30
   name: Алтайская губерния
   names:
@@ -43,15 +25,6 @@
   - id: L3
     name: Российская Империя
     period: FROM @#DJULIAN@ 17 JUN 1917 TO 25 MAY 1925
-- id: L31
-  name: Архангелогородская губерния
-  names:
-  - name: Архангелогородская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 24 JAN 1780
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM @#DJULIAN@ 18 DEC 1708
 - id: L32
   name: Архангельская губерния
   names:
@@ -193,21 +166,6 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 12 DEC 1796
-- id: L29
-  name: Воронежская губерния
-  names:
-  - name: Азовская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 24 APR 1725
-  - name: Воронежская губерния
-    period: FROM @#DJULIAN@ 25 APR 1725 TO @#DJULIAN@ 24 SEP 1779
-  - name: Воронежское наместничество
-    period: FROM @#DJULIAN@ 25 SEP 1779 TO @#DJULIAN@ 11 DEC 1796
-  - name: Воронежская губерния
-    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 MAY 1928
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO 14 MAY 1928
 - id: L46
   name: Выборгская губерния
   names:
@@ -401,15 +359,6 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 25 JAN 1784
-- id: L63
-  name: Киевская губерния (1708–1764)
-  names:
-  - name: Киевская губерния (1708–1764)
-    period: FROM @#DJULIAN@ 1708
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM @#DJULIAN@ 1708
 - id: L64
   name: Ковенская губерния
   names:
@@ -534,21 +483,6 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 1775
-- id: L109
-  name: Ленинградская губерния
-  names:
-  - name: Ингерманландская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 09 JUN 1710
-  - name: Санкт-Петербургская губерния
-    period: FROM @#DJULIAN@ 10 JUN 1710 TO @#DJULIAN@ 17 AUG 1914
-  - name: Петроградская губерния
-    period: FROM @#DJULIAN@ 18 AUG 1914 TO 25 JAN 1924
-  - name: Ленинградская губерния
-    period: FROM 26 JAN 1924 TO 01 AUG 1927
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO 01 AUG 1927
 - id: L73
   name: Литовская губерния
   names:
@@ -871,7 +805,6 @@
   - name: Царство Польское
     id: L140
     period: FROM @#DJULIAN@ 09 AUG 1844 TO 20 JUL 1915
-
 - id: L207
   name: Рязанская губерния
   names:
@@ -946,21 +879,6 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 12 DEC 1796 TO @#DJULIAN@ 05 DEC 1835
-- id: L117
-  name: Смоленская губерния
-  names:
-  - name: Смоленская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 17 JUL 1713
-  - name: Смоленская губерния
-    period: FROM @#DJULIAN@ 1726 TO @#DJULIAN@ 22 DEC 1775
-  - name: Смоленское наместничество
-    period: FROM @#DJULIAN@ 23 DEC 1775 TO @#DJULIAN@ 11 DEC 1796
-  - name: Смоленская губерния
-    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO 14 JAN 1929
 - id: L119
   name: Сувалкская губерния
   names:
@@ -1182,7 +1100,6 @@
   - name: Финляндская Республика
     id: L13
     period: FROM @#DJULIAN@ 17 SEP 1809 TO 01 SEP 1997
-
 - id: L133
   name: Черниговская губерния
   names:
@@ -1215,7 +1132,6 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 23 MAY 1896 TO 1918
-
 - id: L136
   name: Эриванская губерния
   names:
@@ -1245,4 +1161,3 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 22 APR 1805 TO 1920
-

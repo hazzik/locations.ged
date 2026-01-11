@@ -1,0 +1,9 @@
+- id: L63
+  name: Киевская губерния (1708–1764)
+  names:
+  - name: Киевская губерния (1708–1764)
+    period: FROM @#DJULIAN@ 1708
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 1708

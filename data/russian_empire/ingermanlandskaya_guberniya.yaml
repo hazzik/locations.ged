@@ -1,0 +1,15 @@
+- id: L109
+  name: Ленинградская губерния
+  names:
+  - name: Ингерманландская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 09 JUN 1710
+  - name: Санкт-Петербургская губерния
+    period: FROM @#DJULIAN@ 10 JUN 1710 TO @#DJULIAN@ 17 AUG 1914
+  - name: Петроградская губерния
+    period: FROM @#DJULIAN@ 18 AUG 1914 TO 25 JAN 1924
+  - name: Ленинградская губерния
+    period: FROM 26 JAN 1924 TO 01 AUG 1927
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 01 AUG 1927

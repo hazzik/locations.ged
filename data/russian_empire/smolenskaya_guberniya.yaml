@@ -1,0 +1,15 @@
+- id: L117
+  name: Смоленская губерния
+  names:
+  - name: Смоленская губерния
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 17 JUL 1713
+  - name: Смоленская губерния
+    period: FROM @#DJULIAN@ 1726 TO @#DJULIAN@ 22 DEC 1775
+  - name: Смоленское наместничество
+    period: FROM @#DJULIAN@ 23 DEC 1775 TO @#DJULIAN@ 11 DEC 1796
+  - name: Смоленская губерния
+    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
+  parents:
+  - name: Российская Империя
+    id: L3
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO 14 JAN 1929
