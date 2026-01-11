@@ -7,6 +7,51 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+- id: L341
+  name: Тобольская провинция
+  names:
+  - name: Тобольская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
+- id: L342
+  name: Енисейская провинция
+  names:
+  - name: Енисейская провинция
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
+- id: L343
+  name: Иркутская провинция
+  names:
+  - name: Иркутская провинция
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 OCT 1764
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 OCT 1764
+- id: L344
+  name: Вятская провинция
+  names:
+  - name: Вятская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
+- id: L345
+  name: Соликамская провинция
+  names:
+  - name: Соликамская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
 - id: L288
   name: Тобольский уезд
   names:
@@ -15,7 +60,10 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
 - id: L289
   name: Тюменский уезд
   names:
@@ -24,7 +72,10 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
 - id: L290
   name: Туринский уезд
   names:
@@ -33,7 +84,10 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
 - id: L291
   name: Верхотурский уезд
   names:
@@ -42,7 +96,10 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
 - id: L292
   name: Тарский уезд
   names:
@@ -51,7 +108,10 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
 - id: L293
   name: Сургутский уезд
   names:
@@ -60,7 +120,10 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
 - id: L294
   name: Березовский уезд
   names:
@@ -69,7 +132,10 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
 - id: L295
   name: Пелымский уезд
   names:
@@ -78,7 +144,10 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
 - id: L296
   name: Нарымский уезд
   names:
@@ -87,7 +156,13 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Енисейская провинция
+    id: L342
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
 - id: L297
   name: Мангазейский уезд
   names:
@@ -96,7 +171,13 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Енисейская провинция
+    id: L342
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
 - id: L298
   name: Енисейский уезд
   names:
@@ -105,7 +186,13 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Енисейская провинция
+    id: L342
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
 - id: L299
   name: Красноярский уезд
   names:
@@ -114,7 +201,13 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Енисейская провинция
+    id: L342
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
 - id: L300
   name: Томский уезд
   names:
@@ -123,7 +216,13 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Енисейская провинция
+    id: L342
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
 - id: L301
   name: Кузнецкий уезд
   names:
@@ -132,7 +231,13 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Енисейская провинция
+    id: L342
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
 - id: L302
   name: Кетский уезд
   names:
@@ -141,97 +246,181 @@
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 JAN 1782
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Енисейская провинция
+    id: L342
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
 - id: L303
   name: Иркутский уезд
   names:
   - name: Иркутский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 OCT 1764
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Иркутская провинция
+    id: L343
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 OCT 1764
 - id: L304
   name: Нерчинский уезд
   names:
   - name: Нерчинский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 OCT 1764
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Иркутская провинция
+    id: L343
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 OCT 1764
 - id: L305
   name: Якутский уезд
   names:
   - name: Якутский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 OCT 1764
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1764
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Иркутская провинция
+    id: L343
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 OCT 1764
+- id: L346
+  name: Илимский уезд
+  names:
+  - name: Илимский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 OCT 1764
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Иркутская провинция
+    id: L343
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 OCT 1764
+- id: L347
+  name: Селенгинский уезд
+  names:
+  - name: Селенгинский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 19 OCT 1764
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Тобольская провинция
+    id: L341
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 25 NOV 1724
+  - name: Иркутская провинция
+    id: L343
+    period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 OCT 1764
 - id: L306
   name: Охотский уезд
   names:
   - name: Охотский уезд
-    period: FROM @#DJULIAN@ 1736 TO @#DJULIAN@ 1764
+    period: FROM @#DJULIAN@ 1736 TO @#DJULIAN@ 19 OCT 1764
   parents:
-  - name: Сибирская губерния
-    id: L15
-    period: FROM @#DJULIAN@ 1736 TO @#DJULIAN@ 1764
+  - name: Иркутская провинция
+    id: L343
+    period: FROM @#DJULIAN@ 1736 TO @#DJULIAN@ 19 OCT 1764
 - id: L307
   name: Соликамский уезд
   names:
   - name: Соликамский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 29 APR 1727
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Соликамская провинция
+    id: L345
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
 - id: L308
   name: Чердынский уезд
   names:
   - name: Чердынский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 29 APR 1727
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Соликамская провинция
+    id: L345
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
 - id: L309
   name: Кунгурский уезд
   names:
   - name: Кунгурский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 29 APR 1727
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Вятская провинция
+    id: L344
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
 - id: L310
   name: Пермский уезд
   names:
   - name: Пермский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 29 APR 1727
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Соликамская провинция
+    id: L345
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
 - id: L311
   name: Вятский уезд
   names:
   - name: Вятский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 29 APR 1727
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1727
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Вятская провинция
+    id: L344
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
 - id: L312
   name: Яренский уезд
   names:
   - name: Яренский уезд
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1719
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 29 APR 1727
   parents:
   - name: Сибирская губерния
     id: L15
-    period: FROM @#DJULIAN@ 1708 TO @#DJULIAN@ 1719
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Вятская провинция
+    id: L344
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
+- id: L348
+  name: Кайгородский уезд
+  names:
+  - name: Кайгородский уезд
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 29 APR 1727
+  parents:
+  - name: Сибирская губерния
+    id: L15
+    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 28 MAY 1719
+  - name: Вятская провинция
+    id: L344
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
 - id: L8
   name: Исетская провинция
   names:
