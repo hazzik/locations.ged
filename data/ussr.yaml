@@ -83,3 +83,12 @@
   - name: РСФСР
     id: L3
     period: FROM 27 AUG 1919 TO 03 NOV 1923
+- id: L313
+  name: Екатеринбургская губерния
+  names:
+  - name: Екатеринбургская губерния
+    period: FROM @#DJULIAN@ 15 JUL 1919 TO 03 NOV 1923
+  parents:
+  - name: РСФСР
+    id: L3
+    period: FROM @#DJULIAN@ 15 JUL 1919 TO 03 NOV 1923
