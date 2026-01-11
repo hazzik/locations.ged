@@ -450,6 +450,15 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 08 FEB 1860 TO 28 JAN 1918
+- id: L367
+  name: Черноморский округ
+  names:
+  - name: Черноморский округ
+    period: FROM @#DJULIAN@ 10 MAR 1866 TO 23 MAY 1896
+  parents:
+  - name: Кубанская область
+    id: L353
+    period: FROM @#DJULIAN@ 10 MAR 1866 TO 23 MAY 1896
 - id: L20
   name: Кунгурский уезд
   names:
@@ -650,19 +659,6 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 27 FEB 1802 TO 11 JUL 1919
-- id: L83
-  name: Московская губерния
-  names:
-  - name: Московская губерния
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO @#DJULIAN@ 04 OCT 1781
-  - name: Московское наместничество
-    period: FROM @#DJULIAN@ 05 OCT 1781 TO @#DJULIAN@ 11 DEC 1796
-  - name: Московская губерния
-    period: FROM @#DJULIAN@ 12 DEC 1796 TO 14 JAN 1929
-  parents:
-  - name: Российская Империя
-    id: L3
-    period: FROM @#DJULIAN@ 18 DEC 1708 TO 14 JAN 1929
 - id: L84
   name: Нижегородская губерния
   names:
@@ -1073,6 +1069,15 @@
   - name: Российская Империя
     id: L3
     period: FROM @#DJULIAN@ 19 SEP 1777 TO 01 OCT 1929
+- id: L368
+  name: Тульская провинция
+  names:
+  - name: Тульская провинция
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
+  parents:
+  - name: Московская губерния
+    id: L83
+    period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 01 NOV 1775
 - id: L357
   name: Тургайская область
   names:
