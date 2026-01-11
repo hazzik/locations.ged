@@ -52,7 +52,7 @@
   - name: Сибирская губерния
     id: L15
     period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 29 APR 1727
-- id: L288
+- id: L360
   name: Тобольский уезд
   names:
   - name: Тобольский уезд
@@ -64,7 +64,7 @@
   - name: Тобольская провинция
     id: L341
     period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
-- id: L289
+- id: L361
   name: Тюменский уезд
   names:
   - name: Тюменский уезд
@@ -76,7 +76,7 @@
   - name: Тобольская провинция
     id: L341
     period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
-- id: L290
+- id: L362
   name: Туринский уезд
   names:
   - name: Туринский уезд
@@ -88,7 +88,7 @@
   - name: Тобольская провинция
     id: L341
     period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
-- id: L291
+- id: L363
   name: Верхотурский уезд
   names:
   - name: Верхотурский уезд
@@ -100,7 +100,7 @@
   - name: Тобольская провинция
     id: L341
     period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
-- id: L292
+- id: L364
   name: Тарский уезд
   names:
   - name: Тарский уезд
@@ -112,7 +112,7 @@
   - name: Тобольская провинция
     id: L341
     period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
-- id: L293
+- id: L365
   name: Сургутский уезд
   names:
   - name: Сургутский уезд
@@ -124,7 +124,7 @@
   - name: Тобольская провинция
     id: L341
     period: FROM @#DJULIAN@ 29 MAY 1719 TO @#DJULIAN@ 19 JAN 1782
-- id: L294
+- id: L366
   name: Березовский уезд
   names:
   - name: Березовский уезд
@@ -208,7 +208,7 @@
   - name: Енисейская провинция
     id: L342
     period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
-- id: L300
+- id: L358
   name: Томский уезд
   names:
   - name: Томский уезд
@@ -223,7 +223,7 @@
   - name: Енисейская провинция
     id: L342
     period: FROM @#DJULIAN@ 26 NOV 1724 TO @#DJULIAN@ 19 JAN 1782
-- id: L301
+- id: L359
   name: Кузнецкий уезд
   names:
   - name: Кузнецкий уезд
